@@ -1,15 +1,15 @@
-#### ART Protocol Whitepaper
+# ART Protocol Whitepaper
 
-# Abstract
+### Abstract
 
-# Introduction
+### Introduction
 
-# Problem Statement
+### Problem Statement
 
-# Proposed Solution
+### Proposed Solution
 
-# Technical Architecture
+### Technical Architecture
 
-# Economic Model
+### Economic Model
 
-# Conclusion
+### Conclusion
