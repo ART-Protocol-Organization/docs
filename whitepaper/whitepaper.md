@@ -1,32 +1,32 @@
 # ART-Protocol Whitepaper
    
 ## 1. Protocol
-### 1.1. Mainnet
-#### 1.1.1. PoS 개요   
-PoS(Proof-of-Stake)는 블록체인 네트워크에서 합의 알고리즘으로 사용되는 메커니즘입니다. 이는 기존의 작업 증명(Proof-of-Work, PoW) 방식과 대비되는 개념으로, 블록 검증 및 생성 과정에서 컴퓨팅 파워 대신 토큰 보유량과 네트워크에 기여한 지분을 기반으로 참여자에게 역할을 할당합니다.   
-PoS의 핵심 아이디어는 네트워크 참여자가 자신의 토큰을 네트워크에 예치(스테이킹)하면, 이 예치된 양과 시간에 비례하여 검증자(Validator)로서의 권한을 부여받는 것입니다. 이를 통해 블록체인의 탈중앙성과 보안성을 유지하면서도 에너지 효율성을 극대화할 수 있습니다.
-#### 1.1.2. PoS의 필요성   
-- 에너지 효율성: PoW 기반 네트워크는 막대한 전력 소모와 환경 문제를 야기합니다. 반면 PoS는 채굴이 아닌 스테이킹을 기반으로 하여 에너지 소모를 최소화합니다.
-- 확장성: PoS는 블록 생성 시간을 단축하고 트랜잭션 처리 속도를 높여 네트워크의 확장성을 극대화합니다.
-- 보안 강화: 공격자가 네트워크를 장악하기 위해서는 전체 스테이킹된 토큰의 51% 이상을 보유해야 하므로 경제적 비용이 매우 큽니다. 이는 네트워크의 보안성을 높이는 효과를 가져옵니다.
-#### 1.1.3. ART Protocol의 PoS 메커니즘
-ART Protocol이 채택한 PoS 기반 메커니즘은 네트워크의 안정성과 참여자 보상의 균형을 유지하는 것을 목표로 설계되었습니다.   
-1. 검증자(Validator) 선택   
-    ART Protocol에서는 일정량 이상의 토큰을 스테이킹한 참여자를 검증자로 선정합니다. 이 과정은 탈중앙화된 검증 메커니즘에 의해 공정하게 이루어집니다.
-2. 블록 생성 및 검증   
-    검증자들은 일정 주기에 따라 랜덤하게 선택되어 블록을 생성하고 네트워크 상의 거래를 검증합니다. 이는 지분에 따른 확률적 보상 시스템을 기반으로 합니다.
-3. 보상과 벌칙   
-- 보상: 검증자는 블록을 생성하고 검증에 성공하면 보상으로 네트워크 토큰을 지급받습니다. 보상 규모는 스테이킹된 토큰의 양과 활동 기여도에 따라 달라집니다.
-- 벌칙(Slashing): 악의적인 행동(예: 블록 이중 서명, 검증 실패 등)이 감지될 경우 검증자가 스테이킹한 토큰의 일부 또는 전부를 소각하는 Slashing이 적용됩니다.
-4. 보안 강화 메커니즘   
-    ART Protocol의 PoS 시스템은 랜덤 검증자 선택과 경제적 보상을 결합하여 네트워크의 보안을 강화합니다. 공격자가 네트워크를 장악하려면 전체 스테이킹된 토큰의 과반수를 확보해야 하므로 경제적으로 불합리한 선택이 됩니다.
-#### 1.1.4. ART Protocol PoS의 장점
-- 환경 친화적: PoS는 기존 PoW와 달리 대규모 연산 작업이 필요하지 않아 탄소 배출이 거의 없습니다.
-- 사용자 참여 유도: 누구나 토큰을 보유하고 스테이킹함으로써 네트워크에 기여하고 보상을 받을 수 있습니다.
-- 경제적 효율성: 검증 및 보상 과정이 단순화되어 불필요한 리소스를 낭비하지 않습니다.
-- 탈중앙화 유지: ART Protocol은 참여자의 스테이킹과 랜덤 검증자 선정을 통해 중앙 집중화의 위험을 방지합니다.
-#### 1.1.4. PoS 결론   
-ART Protocol의 PoS 기반 메인넷은 지속 가능하고 효율적인 블록체인 네트워크를 구축하기 위해 설계되었습니다. 에너지 효율성, 보안성, 확장성의 세 가지 핵심 요소를 결합함으로써 차세대 블록체인 기술의 기반을 제공하며, 네트워크 참여자 모두에게 공정하고 투명한 기회를 제공합니다.
+### 1.1. Blockchain Mainnet
+#### 1.1.1. Overview of PoS   
+**PoS(Proof-of-Stake)** is a consensus mechanism used in blockchain networks. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on the ownership of tokens and stake contributions to assign roles in block validation and creation.   
+The core idea behind PoS is that network participants can "stake" their tokens, and based on the amount and duration of their stake, they are granted validator privileges. This mechanism enhances the decentralization and security of the blockchain while achieving significant energy efficiency.
+#### 1.1.2. The Need for PoS   
+- **Energy Efficiency**: PoW-based networks consume massive energy and raise environmental concerns. In contrast, PoS minimizes energy consumption by relying on staking rather than mining.
+- **Scalability**: PoS reduces block generation time and increases transaction throughput, improving network scalability.
+- **Enhanced Security**: An attacker would need to own at least 51% of the staked tokens to control the network, making such an attack prohibitively expensive and impractical.
+#### 1.1.3. ART Protocol's PoS Mechanism
+The PoS mechanism adopted by ART Protocol aims to balance network stability and participant rewards through a fair and efficient design.   
+1. Validator Selection   
+    ART Protocol selects participants who have staked a certain amount of tokens as validators. This process is carried out fairly through a decentralized validation mechanism.
+2. Block Creation and Validation   
+    Validators are randomly chosen in specific intervals to generate blocks and validate transactions within the network. This is based on a probabilistic reward system proportional to their stake.
+3. Rewards and Penalties   
+    - **Rewards**: Validators earn network tokens as rewards for successfully creating and validating blocks. The reward amount depends on the staked token amount and the level of participation.
+    - **Penalties (Slashing)**: If malicious behavior (e.g., double signing, validation failures) is detected, part or all of the validator’s staked tokens may be slashed or burned as punishment.
+4. Enhanced Security Mechanism   
+    ART Protocol combines random validator selection and economic incentives to strengthen network security. To compromise the network, an attacker would need to acquire a majority of the staked tokens, making such attempts economically unfeasible.
+#### 1.1.4. Advantages of ART Protocol's PoS
+- **Eco-Friendly**: Unlike PoW, PoS requires no large-scale computations, resulting in near-zero carbon emissions.
+- **Incentivized User Participation**: Anyone holding tokens can contribute to the network by staking and earn rewards.
+- **Economic Efficiency**: The simplified validation and reward processes eliminate resource inefficiencies.
+- **Maintaining Decentralization**: ART Protocol prevents centralization risks through staking participation and random validator selection.
+#### 1.1.4. PoS Conclusion   
+The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.
 ### 1.2.Artcoin
 ### 1.3.Tokenized RWA
 
