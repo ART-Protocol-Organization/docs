@@ -27,8 +27,12 @@ The PoS mechanism adopted by ART Protocol aims to balance network stability and 
 - **Maintaining Decentralization**: ART Protocol prevents centralization risks through staking participation and random validator selection.
 #### 1.1.4. PoS Conclusion   
 The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.
-### 1.2.Artcoin
-### 1.3.Tokenized RWA
+### 1.2. Artcoin
+#### 1.2.1 Tokenomics
+- Token Name : Artcoin
+- Token Symbol : ARTC
+- Token Total Supply : 10,000,000,000
+### 1.3. Tokenized RWA
 
 
 ## Cooperation
