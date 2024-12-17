@@ -1,5 +1,6 @@
 # ART-Protocol Whitepaper
    
+
 ## 1. Protocol
 ### 1.1. Blockchain Mainnet
 #### 1.1.1. Overview of PoS   
@@ -33,6 +34,7 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 - Token Symbol : ARTC
 - Token Total Supply : 10,000,000,000
 ### 1.3 Tokenized RWA
-
+   
+   
 ## 2. Cooperation
 ### 2.1. ENVISAGER
