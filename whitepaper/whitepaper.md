@@ -1,14 +1,14 @@
 # ART Protocol Whitepaper
-
-- - -
+   
 ## PROTOCOL
 ### Mainnet
 ### Artcoin
 ### Tokenized RWA
-- - -
+
+
 ## Cooperation
 ### ENVISAGER
-- - -
+
 
 #### requires
 - Abstract
