@@ -32,18 +32,7 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 - Token Name : Artcoin
 - Token Symbol : ARTC
 - Token Total Supply : 10,000,000,000
-### 1.3. Tokenized RWA
+### 1.3 Tokenized RWA
 
-
-## Cooperation
-### ENVISAGER
-
-
-#### requires
-- Abstract
-- Introduction
-- Problem Statement
-- Proposed Solution
-- Technical Architecture
-- Economic Model
-- Conclusion
+## 2. Cooperation
+### 2.1. ENVISAGER
