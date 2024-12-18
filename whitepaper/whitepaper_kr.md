@@ -30,14 +30,14 @@
 > #### 1.1.4. PoS 결론   
 > ART Protocol의 PoS 기반 메인넷은 지속 가능하고 효율적인 블록체인 네트워크를 구축하기 위해 설계되었습니다. 에너지 효율성, 보안성, 확장성의 세 가지 핵심 요소를 결합함으로써 차세대 블록체인 기술의 기반을 제공하며, 네트워크 참여자 모두에게 공정하고 투명한 기회를 제공합니다.
 
-### 1.2. Artcoin
-#### 1.2.1 Tokenomics
-- Token Name : Artcoin
-- Token Symbol : ARTC
-- Token Total Supply : 10,000,000,000
+> ### 1.2. Artcoin
+> #### 1.2.1 Tokenomics
+> - Token Name : Artcoin
+> - Token Symbol : ARTC
+> - Token Total Supply : 10,000,000,000
 
-### 1.3 Tokenized RWA
+> ### 1.3 Tokenized RWA
    
    
 ## 2. Cooperation
-### 2.1. ENVISAGER
+> ### 2.1. ENVISAGER
