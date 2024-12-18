@@ -32,7 +32,8 @@ ART Protocol의 PoS 기반 메인넷은 지속 가능하고 효율적인 블록�
 
 ### 1.2. Artcoin
 #### 1.2.1 Tokenomics
-- Token Name : Artcoin  [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f>
+- Token Name : Artcoin   
+    [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f>
 - Token Symbol : ARTC
 - Token Total Supply : 10,000,000,000
 
