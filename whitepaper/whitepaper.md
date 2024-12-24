@@ -16,14 +16,14 @@ The core idea behind PoS is that network participants can "stake" their tokens, 
 - **Enhanced Security**: An attacker would need to own at least 51% of the staked tokens to control the network, making such an attack prohibitively expensive and impractical.
 #### 1.1.3. ART Protocol's PoS Mechanism   
 The PoS mechanism adopted by ART Protocol aims to balance network stability and participant rewards through a fair and efficient design.   
-1. Validator Selection   
+1. **Validator Selection**  
     ART Protocol selects participants who have staked a certain amount of tokens as validators. This process is carried out fairly through a decentralized validation mechanism.
-2. Block Creation and Validation   
+2. **Block Creation and Validation**  
     Validators are randomly chosen in specific intervals to generate blocks and validate transactions within the network. This is based on a probabilistic reward system proportional to their stake.
-3. Rewards and Penalties   
+3. **Rewards and Penalties**   
     - **Rewards**: Validators earn network tokens as rewards for successfully creating and validating blocks. The reward amount depends on the staked token amount and the level of participation.
     - **Penalties (Slashing)**: If malicious behavior (e.g., double signing, validation failures) is detected, part or all of the validator’s staked tokens may be slashed or burned as punishment.
-4. Enhanced Security Mechanism   
+4. **Enhanced Security Mechanism**   
 ART Protocol combines random validator selection and economic incentives to strengthen network security. To compromise the network, an attacker would need to acquire a majority of the staked tokens, making such attempts economically unfeasible.
 #### 1.1.4. Advantages of ART Protocol's PoS
 - **Eco-Friendly**: Unlike PoW, PoS requires no large-scale computations, resulting in near-zero carbon emissions.
@@ -35,9 +35,10 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 
 ### 1.2. Artcoin
 #### 1.2.1 Tokenomics
-- Token Name : Artcoin   [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f> 
-- Token Symbol : ARTC
-- Token Total Supply : 10,000,000,000
+- **Token Name** : Artcoin   
+    [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f> 
+- **Token Symbol** : ARTC
+- **Token Total Supply** : 10,000,000,000
 #### 1.2.2 Artcoin’s Blockchain Networks
 - **Initial Launch on Ethereum** : Artcoin was initially launched on the Ethereum (ETH) network, a leading platform for smart contracts and decentralized applications (dApps). Ethereum provided a robust foundation with its extensive user base and strong security. However, as the network usage grew, challenges such as slower transaction speeds and higher gas fees emerged.
 - **Migration to Polygon** : To address the issues of high fees and limited scalability, Artcoin transitioned to the Polygon (MATIC) network. Polygon, a Layer 2 solution for Ethereum, enabled faster and more cost-effective transactions. This migration significantly improved the user experience by reducing fees and enhancing the network's overall efficiency.
@@ -58,10 +59,38 @@ The Artcoin Validator program allows users to stake their coins and earn income 
     - Users who cannot meet the 150,000 Artcoin threshold will still receive proportional rewards based on the amount staked.
 5. **Income Rate Example** :
     - A user staking 150,000 Artcoins can expect an annual return of approximately 23.36%.
-    - The effective income rate for the user's 70% share is approximately 16.35%.
+    - The effective income rate for the user's 70% share is approximately 16.35%.   
 **This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
 
-### 1.3 Tokenized RWA
+### 1.3 Tokenized RWA (Real World Asset)
+#### 1.3.1 The Concept of WEB3 and RWA   
+RWA (Real World Asset) refers to the digitalization of real-world assets, allowing them to be managed and traded on the blockchain. In WEB3, RWA is tokenized, enabling transparent recording and management of ownership, transaction history, and authentication on the blockchain.   
+The tokenization of RWA offers several advantages :
+1. **Transparency** : All transaction histories are recorded on the blockchain, making them tamper-proof.
+2. **Accessibility** : Anyone can access and trade RWA through the blockchain network.
+3. **Liquidity** : Assets with low liquidity in traditional markets can be digitized and traded more widely.
+4. **Security** : Ownership of assets is securely managed through the decentralized ledger of the blockchain.
+#### 1.3.2 ART Protocol’s RWA Authentication and Trading System   
+Artcoin is transforming the traditional asset custody and trading system through its **NFT-based RWA authentication service**.
+1. **NFT Authentication**
+    - The Artcoin platform verifies RWAs, such as artworks, and issues NFTs representing these assets.
+    - These NFTs contain ownership and authentication information, making it easy to verify the authenticity and ownership of assets.
+2. **Custody and Trading System**
+    - NFTs are traded on the blockchain, simplifying the transfer of ownership for RWAs.
+    - Artcoin provides secure asset custody services and improves user experience by automating transactions via smart contracts.
+3. **Scalability**
+    - Currently, the service supports **artworks**, but it will expand to include other real-world assets like **tea** and **gold** in the future.
+    - This expansion aims to support a broader RWA market and strengthen Artcoin's position in the global market.
+#### Business Model and Features   
+Artcoin's Tokenized RWA service provides the following business and functional offerings :
+1. **Asset Authentication and Digitalization**
+    - Verifying real-world assets and issuing NFTs to integrate them into the digital ecosystem.
+2. **Decentralized Trading**
+    - Supporting secure and transparent transactions based on blockchain networks.
+3. **Improved Liquidity**
+    - Enhancing liquidity for assets that are challenging to trade in traditional markets.
+4. **Scalable Ecosystem Development**
+    - Starting with artworks, gradually expanding to diverse RWAs to build a sustainable ecosystem for users and businesses.
 
 
 
