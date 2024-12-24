@@ -1,5 +1,6 @@
 # ART-Protocol Whitepaper
    
+***
 
 ## 1. Protocol
 
@@ -35,16 +36,17 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 - Token Name : Artcoin   [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f> 
 - Token Symbol : ARTC
 - Token Total Supply : 10,000,000,000
-
 #### 1.2.2 Artcoin’s Blockchain Networks
 - **Initial Launch on Ethereum** : Artcoin was initially launched on the Ethereum (ETH) network, a leading platform for smart contracts and decentralized applications (dApps). Ethereum provided a robust foundation with its extensive user base and strong security. However, as the network usage grew, challenges such as slower transaction speeds and higher gas fees emerged.
 - **Migration to Polygon** : To address the issues of high fees and limited scalability, Artcoin transitioned to the Polygon (MATIC) network. Polygon, a Layer 2 solution for Ethereum, enabled faster and more cost-effective transactions. This migration significantly improved the user experience by reducing fees and enhancing the network's overall efficiency.
 - **Final Transition to Base** : To strengthen its presence in the U.S. market and provide an improved user experience, Artcoin moved to the Base network. Base, a Layer 2 solution supported by Coinbase, offers low fees and high scalability. Leveraging Coinbase's extensive user base and reputation, this transition allowed Artcoin to enhance accessibility and adoption within the U.S. market.
 - **Planned Transition to a Proprietary Mainnet** : Artcoin is currently developing its own proprietary blockchain mainnet and plans to migrate once it is ready. The proprietary mainnet will enable Artcoin to achieve technical autonomy and provide users with an optimized transaction environment and enhanced scalability. This transition will mark a significant milestone in achieving full independence and strengthening the Artcoin ecosystem.   
 **Through these network transitions and the development of its proprietary mainnet, Artcoin aims to deliver superior services and experiences to its users while bolstering its competitiveness in the global market.**
+#### 1.2.3 Artcoin's Validator
 
 ### 1.3 Tokenized RWA
-   
-   
+
+***
+
 ## 2. Cooperation
 ### 2.1. ENVISAGER
