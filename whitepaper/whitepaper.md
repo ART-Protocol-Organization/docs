@@ -44,7 +44,22 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 - **Final Transition to Base** : To strengthen its presence in the U.S. market and provide an improved user experience, Artcoin moved to the Base network. Base, a Layer 2 solution supported by Coinbase, offers low fees and high scalability. Leveraging Coinbase's extensive user base and reputation, this transition allowed Artcoin to enhance accessibility and adoption within the U.S. market.
 - **Planned Transition to a Proprietary Mainnet** : Artcoin is currently developing its own proprietary blockchain mainnet and plans to migrate once it is ready. The proprietary mainnet will enable Artcoin to achieve technical autonomy and provide users with an optimized transaction environment and enhanced scalability. This transition will mark a significant milestone in achieving full independence and strengthening the Artcoin ecosystem.   
 **Through these network transitions and the development of its proprietary mainnet, Artcoin aims to deliver superior services and experiences to its users while bolstering its competitiveness in the global market.**
-#### 1.2.3 Artcoin's Validator
+#### 1.2.3 Artcoin's Validator   
+The Artcoin Validator program allows users to stake their coins and earn income from their deposits. This program includes the following terms and features:
+1. **Basic Deposit Requirement** : Users who deposit a minimum of 150,000 Artcoins into the Validator will receive rewards for their staked coins over the course of one year.
+2. **Reward Structure** : 
+    - 4 Artcoins are distributed per hour.
+    - Users can earn 96 Artcoins per day (24 hours).
+    - Over one year (365 days), a total reward of 35,040 Artcoins is distributed.
+3. **Profit Sharing** :
+    - The total rewards are divided in a 7:3 ratio between users and operators.
+    - Users receive 70% of the total rewards, while operators take 30%.
+4. **Partial Staking Support** :
+    - Users who cannot meet the 150,000 Artcoin threshold will still receive proportional rewards based on the amount staked.
+5. **Income Rate Example** :
+    - A user staking 150,000 Artcoins can expect an annual return of approximately 23.36%.
+    - The effective income rate for the user's 70% share is approximately 16.35%.
+**This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
 
 ### 1.3 Tokenized RWA
 
