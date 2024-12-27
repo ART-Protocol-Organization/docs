@@ -35,10 +35,26 @@ ART Protocol의 PoS 기반 메인넷은 지속 가능하고 효율적인 블록�
 
 ### 1.2. Artcoin
 #### 1.2.1 Tokenomics
-- **Token Name** : Artcoin   
+1. **Token Name** : Artcoin   
     [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f>
-- **Token Symbol** : ARTC
-- **Token Total Supply** : 10,000,000,000
+2. **Token Symbol** : ARTC
+3. **Token Total Supply** : 10,000,000,000
+4. **Token Distribution**
+    Artcoin은 생태계의 성장을 지원하고 다양한 참여자들에게 공정하게 기회를 제공하기 위해 다음과 같은 방식으로 토큰을 분배합니다:
+    - Ecosystem Growth (생태계 성장): 20%   
+        Artcoin 생태계를 확장하고 새로운 기능 및 서비스 개발에 투자하기 위해 할당됩니다.
+    - RWA Merchandising (현실 자산 상품화): 20%   
+        RWA 관련 상품화 및 유동성 공급을 지원하며, 예술 작품 및 기타 현실 자산의 디지털화를 촉진합니다.
+    - Validator & Node (검증자 및 노드): 10%   
+        네트워크의 탈중앙화를 유지하고 검증자와 노드 운영자를 보상하기 위한 토큰입니다.
+    - Community Access Sale (커뮤니티 공개 판매): 10%   
+        Artcoin 커뮤니티 구성원들에게 초기 토큰 구매 기회를 제공하는 공개 판매를 위해 할당됩니다.
+    - Private Sales (프라이빗 세일): 10%   
+        초기 투자자 및 전략적 파트너십 구축을 위해 프라이빗 세일에 할당됩니다.
+    - Foundation (재단 운영): 10%   
+        Artcoin 재단의 운영 및 프로젝트 관리, 법적 지원, 마케팅 등을 위해 사용됩니다.
+    - Protocol (프로토콜 개발): 20%   
+        블록체인 프로토콜의 지속적인 개발과 업그레이드를 위해 할당됩니다.
 #### 1.2.2 Artcoin의 블록체인 네트워크
 - **이더리움(Ethereum)에서의 시작** : Artcoin은 최초 발행 시 이더리움(ETH) 네트워크를 선택하였습니다. 이더리움은 스마트 계약과 탈중앙화 애플리케이션(dApp)을 지원하는 대표적인 플랫폼으로, 넓은 사용자 기반과 높은 보안성을 갖추고 있습니다. 그러나 네트워크 사용자가 증가함에 따라 트랜잭션 처리 속도가 느려지고, 가스 비용이 상승하는 문제가 발생했습니다.
 - **폴리곤(Polygon) 체인으로의 이전** : 높은 수수료와 확장성 문제를 해결하기 위해, Artcoin은 폴리곤(MATIC) 네트워크로 이전하였습니다. 폴리곤은 이더리움의 레이어 2 솔루션으로, 더 빠르고 저렴한 트랜잭션을 가능하게 합니다. 이를 통해 사용자들은 낮은 수수료로 Artcoin을 거래할 수 있었으며, 네트워크의 효율성도 향상되었습니다.
