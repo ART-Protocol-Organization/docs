@@ -28,7 +28,7 @@ ART Protocol combines random validator selection and economic incentives to stre
 - **Economic Efficiency**: The simplified validation and reward processes eliminate resource inefficiencies.
 - **Maintaining Decentralization**: ART Protocol prevents centralization risks through staking participation and random validator selection.
 #### 1.1.4. PoS Conclusion   
-The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.
+The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.   
 <br>
 
 ### 1.2. Artcoin
