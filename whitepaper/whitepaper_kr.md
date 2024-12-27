@@ -106,7 +106,7 @@ Artcoin의 Tokenized RWA 서비스는 다음과 같은 비즈니스 및 기능�
 4. **확장성 있는 생태계 구축**
     - 예술작품에서 시작해 점차 다양한 RWA로 확장하여 사용자와 기업이 참여할 수 있는 지속 가능한 생태계를 구축합니다.
 
-### Roadmap
+### 1.4 Roadmap
 #### ~2023년
 - EVM 메인넷(POW) 테스트
 - Generative AI 연구: Stable Diffusion, DALL-E, Voice AI
