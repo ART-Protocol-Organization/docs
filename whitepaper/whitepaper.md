@@ -1,11 +1,8 @@
 # ART-Protocol Whitepaper
 <br>
-<br>
 
 
 ## 1. Protocol
-<br>
-
 ### 1.1. Blockchain Mainnet
 #### 1.1.1. Overview of PoS   
 **PoS(Proof-of-Stake)** is a consensus mechanism used in blockchain networks. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on the ownership of tokens and stake contributions to assign roles in block validation and creation.   
@@ -129,7 +126,6 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - Protocol & Ecosystem Prototyping
 #### 2026 and Beyond
 - RWA Exchange Planned: Based on Real Yield Protocol
-<br>
 <br>
 
 

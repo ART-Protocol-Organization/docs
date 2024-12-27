@@ -1,11 +1,8 @@
 # ART-Protocol Whitepaper
 <br>
-<br>
 
 
 ## 1. Protocol
-<br>
-
 ### 1.1. Blockchain Mainnet
 #### 1.1.1. PoS 개요   
 **PoS(Proof-of-Stake)** 는 블록체인 네트워크에서 합의 알고리즘으로 사용되는 메커니즘입니다. 이는 기존의 작업 증명(Proof-of-Work, PoW) 방식과 대비되는 개념으로, 블록 검증 및 생성 과정에서 컴퓨팅 파워 대신 토큰 보유량과 네트워크에 기여한 지분을 기반으로 참여자에게 역할을 할당합니다.   
@@ -129,7 +126,6 @@ Artcoin의 Tokenized RWA 서비스는 다음과 같은 비즈니스 및 기능�
 - 프로토콜 및 생태계 프로토타이핑
 #### 2026년 이후
 - RWA 거래소 출시 예정: Real Yield Protocol 기반
-<br>
 <br>
    
 
