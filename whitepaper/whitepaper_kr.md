@@ -2,8 +2,6 @@
 
 
 
-
-
 ## 1. Protocol
 
 ### 1.1. Blockchain Mainnet
@@ -39,7 +37,7 @@ ART Protocol의 PoS 기반 메인넷은 지속 가능하고 효율적인 블록�
     [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f>
 2. **Token Symbol** : ARTC
 3. **Token Total Supply** : 10,000,000,000
-4. **Token Distribution**
+4. **Token Distribution**   
     Artcoin은 생태계의 성장을 지원하고 다양한 참여자들에게 공정하게 기회를 제공하기 위해 다음과 같은 방식으로 토큰을 분배합니다:
     - Ecosystem Growth (생태계 성장): 20%   
         Artcoin 생태계를 확장하고 새로운 기능 및 서비스 개발에 투자하기 위해 할당됩니다.
@@ -108,6 +106,25 @@ Artcoin의 Tokenized RWA 서비스는 다음과 같은 비즈니스 및 기능�
 4. **확장성 있는 생태계 구축**
     - 예술작품에서 시작해 점차 다양한 RWA로 확장하여 사용자와 기업이 참여할 수 있는 지속 가능한 생태계를 구축합니다.
 
+### Roadmap
+#### ~2023년
+- EVM 메인넷(POW) 테스트
+- Generative AI 연구: Stable Diffusion, DALL-E, Voice AI
+#### 2024년
+- RWA 토큰화 서비스 출시
+- EVM 메인넷(POS) 테스트
+- Art Docent LLM 및 챗봇 개발
+- Artcoin 및 검증자(Validator) 출시
+- 토큰화 서비스 운영
+- AI 멀티모달 연구: 음악, 비디오
+- Uniswap 상장
+#### 2025년
+- 메인넷 출시 예정
+- RWA 토큰화 서비스 확장
+- WEB3 생태계 개발
+- 프로토콜 및 생태계 프로토타이핑
+#### 2026년 이후
+- RWA 거래소 출시 예정: Real Yield Protocol 기반
 
 
 

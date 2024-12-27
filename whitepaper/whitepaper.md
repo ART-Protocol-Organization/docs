@@ -2,8 +2,6 @@
 
 
 
-
-
 ## 1. Protocol
 
 ### 1.1. Blockchain Mainnet
@@ -35,10 +33,26 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 
 ### 1.2. Artcoin
 #### 1.2.1 Tokenomics
-- **Token Name** : Artcoin   
+1. **Token Name** : Artcoin   
     [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f> 
-- **Token Symbol** : ARTC
-- **Token Total Supply** : 10,000,000,000
+2. **Token Symbol** : ARTC
+3. **Token Total Supply** : 10,000,000,000
+4. **Token Distribution**   
+    To support ecosystem growth and provide fair opportunities for various participants, Artcoin’s tokens are distributed as follows:
+    - Ecosystem Growth: 20%   
+        Allocated to expand the Artcoin ecosystem and invest in new features and services.
+    - RWA Merchandising: 20%   
+        Supports RWA-related merchandising and liquidity, promoting the digitalization of artworks and other real-world assets.
+    - Validator & Node: 10%   
+        Tokens reserved to reward validators and node operators, ensuring network decentralization.
+    - Community Access Sale: 10%   
+        Allocated for public sales, giving the Artcoin community members early opportunities to purchase tokens.
+    - Private Sales: 10%   
+        Reserved for initial investors and strategic partnerships through private sales.
+    - Foundation: 10%   
+        Used for the operations of the Artcoin foundation, including project management, legal support, and marketing.
+    - Protocol: 20%   
+        Dedicated to the ongoing development and upgrades of the blockchain protocol.
 #### 1.2.2 Artcoin’s Blockchain Networks
 - **Initial Launch on Ethereum** : Artcoin was initially launched on the Ethereum (ETH) network, a leading platform for smart contracts and decentralized applications (dApps). Ethereum provided a robust foundation with its extensive user base and strong security. However, as the network usage grew, challenges such as slower transaction speeds and higher gas fees emerged.
 - **Migration to Polygon** : To address the issues of high fees and limited scalability, Artcoin transitioned to the Polygon (MATIC) network. Polygon, a Layer 2 solution for Ethereum, enabled faster and more cost-effective transactions. This migration significantly improved the user experience by reducing fees and enhancing the network's overall efficiency.
@@ -92,7 +106,25 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 4. **Scalable Ecosystem Development**
     - Starting with artworks, gradually expanding to diverse RWAs to build a sustainable ecosystem for users and businesses.
 
-
+### 1.4 Roadmap
+#### ~2023
+- EVM Mainnet (POW) Test
+- Generative AI Research: Stable Diffusion, DALL-E, Voice AI
+#### 2024
+- RWA Tokenization Service Launch
+- EVM Mainnet (POS) Test
+- Art Docent LLM and Chatbot Development
+- Artcoin and Validator Launch
+- Tokenization Service Operation
+- AI Multi-modal Research: Music, Video
+- Uniswap Listing
+#### 2025
+- Mainnet Launch Planned
+- Expansion of RWA Tokenization Services
+- WEB3 Ecosystem Development
+- Protocol & Ecosystem Prototyping
+#### 2026 and Beyond
+- RWA Exchange Planned: Based on Real Yield Protocol
 
 
 
