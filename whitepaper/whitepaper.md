@@ -1,8 +1,10 @@
 # ART-Protocol Whitepaper
-
+<br>
+<br>
 
 
 ## 1. Protocol
+<br>
 
 ### 1.1. Blockchain Mainnet
 #### 1.1.1. Overview of PoS   
@@ -30,6 +32,7 @@ ART Protocol combines random validator selection and economic incentives to stre
 - **Maintaining Decentralization**: ART Protocol prevents centralization risks through staking participation and random validator selection.
 #### 1.1.4. PoS Conclusion   
 The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.
+<br>
 
 ### 1.2. Artcoin
 #### 1.2.1 Tokenomics
@@ -74,6 +77,7 @@ The Artcoin Validator program allows users to stake their coins and earn income 
     - A user staking 150,000 Artcoins can expect an annual return of approximately 23.36%.
     - The effective income rate for the user's 70% share is approximately 16.35%.   
 **This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
+<br>
 
 ### 1.3 Tokenized RWA (Real World Asset)
 #### 1.3.1 The Concept of WEB3 and RWA   
@@ -104,6 +108,7 @@ Artcoin's Tokenized RWA service provides the following business and functional o
     - Enhancing liquidity for assets that are challenging to trade in traditional markets.
 4. **Scalable Ecosystem Development**
     - Starting with artworks, gradually expanding to diverse RWAs to build a sustainable ecosystem for users and businesses.
+<br>
 
 ### 1.4 Roadmap
 #### ~2023
@@ -124,7 +129,8 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - Protocol & Ecosystem Prototyping
 #### 2026 and Beyond
 - RWA Exchange Planned: Based on Real Yield Protocol
-
+<br>
+<br>
 
 
 ## 2. Cooperation
