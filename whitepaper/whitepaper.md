@@ -33,8 +33,7 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 
 ### 1.2. Artcoin
 #### 1.2.1 Tokenomics
-1. **Token Name** : Artcoin   
-    [Base_scan](https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f) - <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f> 
+1. **Token Name** : Artcoin     <https://basescan.org/token/0x3bb938773822625193b988F9b6aCD7c730BF299f> 
 2. **Token Symbol** : ARTC
 3. **Token Total Supply** : 10,000,000,000
 4. **Token Distribution**   
