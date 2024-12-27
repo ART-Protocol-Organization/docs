@@ -128,6 +128,11 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - RWA Exchange Planned: Based on Real Yield Protocol
 <br>
 
-
-## 2. Cooperation
-### 2.1. ENVISAGER
+## 2. Who We Are   
+### 2.1 Core Team Members
+- **Yongchan Keum** - Chief Executive Officer
+- **Paul Kim** - Chief Strategy Officer
+- **YongCheon Yang** - Chief Technology Officer
+- **Kwangil Cho** - Manager
+### 2.2 Adviser
+- **Okjoo Lee** - Adviser

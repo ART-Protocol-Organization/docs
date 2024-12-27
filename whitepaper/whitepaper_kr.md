@@ -129,5 +129,11 @@ Artcoin의 Tokenized RWA 서비스는 다음과 같은 비즈니스 및 기능�
 <br>
    
 
-## 2. Cooperation
-### 2.1. ENVISAGER
+## 2. Who We Are   
+### 2.1 Core Team Members
+- **Yongchan Keum** - Chief Executive Officer
+- **Paul Kim** - Chief Strategy Officer
+- **YongCheon Yang** - Chief Technology Officer
+- **Kwangil Cho** - Manager
+### 2.2 Adviser
+- **Okjoo Lee** - Adviser
