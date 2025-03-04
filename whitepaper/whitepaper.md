@@ -120,21 +120,21 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - Artcoin and Validator Launch
 - Tokenization Service Operation
 - AI Multi-modal Research: Music, Video
-- Uniswap Listing
 #### 2025
+- CEX Listing
 - Expansion of RWA Tokenization Services
+- RWA Exchange Planned: Based on Real Yield Protocol
 - WEB3 Ecosystem Development
 - Protocol & Ecosystem Prototyping
 #### 2026 and Beyond
-- RWA Exchange Planned: Based on Real Yield Protocol
 - Mainnet Launch Planned
 <br>
 
 ## 2. Who We Are   
 ### 2.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
+- **Yongchan Kim** - Board Council Chairman
 - **YongCheon Yang** - Chief Technology Officer
-- **Yongchan Kim** - Board chairman
 - **Jeongtae Kim** - Secretary, Director
 - **Kwangil Cho** - Manager
 ### 2.2 Adviser
