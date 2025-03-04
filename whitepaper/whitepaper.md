@@ -73,6 +73,8 @@ The Artcoin Validator program allows users to stake their coins and earn income 
 5. **Income Rate Example** :
     - A user staking 150,000 Artcoins can expect an annual return of approximately 23.36%.
     - The effective income rate for the user's 70% share is approximately 16.35%.   
+6. **Halving plan** :
+    - Distribute amount per hour reduced to half, when total distributed amount reach to the half of total amount.
 **This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
 <br>
 
@@ -120,19 +122,21 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - AI Multi-modal Research: Music, Video
 - Uniswap Listing
 #### 2025
-- Mainnet Launch Planned
 - Expansion of RWA Tokenization Services
 - WEB3 Ecosystem Development
 - Protocol & Ecosystem Prototyping
 #### 2026 and Beyond
 - RWA Exchange Planned: Based on Real Yield Protocol
+- Mainnet Launch Planned
 <br>
 
 ## 2. Who We Are   
 ### 2.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
-- **Paul Kim** - Chief Strategy Officer
 - **YongCheon Yang** - Chief Technology Officer
+- **Yongchan Kim** - Board chairman
+- **Jeongtae Kim** - Secretary, Director
 - **Kwangil Cho** - Manager
 ### 2.2 Adviser
+- **Paul Kim** - Crypto Adviser
 - **Okjoo Lee** - Adviser
