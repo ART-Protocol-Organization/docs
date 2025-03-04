@@ -72,7 +72,9 @@ Artcoin Validator 프로그램은 사용자로부터 코인을 스테이킹(Stak
     - 150,000개의 Artcoin을 채우지 못하더라도, 예치된 코인의 비율에 따라 부분적인 보상이 제공됩니다.
 5. **소득률 예시** :
     - 150,000개의 Artcoin을 예치한 사용자의 경우, 1년 동안 약 23.36%의 수익률을 기대할 수 있습니다.
-    - 사용자 몫으로 제공되는 70%에 해당하는 실질 수익률은 약 16.35%입니다.   
+    - 사용자 몫으로 제공되는 70%에 해당하는 실질 수익률은 약 16.35%입니다.  
+6. **반감기 계획** :
+    - 지급 총량이 남은 총량의 절반이 되면 시간당 지급량이 반으로 줄어듭니다. 
 **이 프로그램은 Artcoin 생태계의 활성화와 사용자에게 안정적인 수익 제공을 목적으로 설계되었습니다.**
 <br>
    
@@ -118,22 +120,24 @@ Artcoin의 Tokenized RWA 서비스는 다음과 같은 비즈니스 및 기능�
 - Artcoin 및 검증자(Validator) 출시
 - 토큰화 서비스 운영
 - AI 멀티모달 연구: 음악, 비디오
-- Uniswap 상장
 #### 2025년
-- 메인넷 출시 예정
+- CEX 상장
 - RWA 토큰화 서비스 확장
+- RWA 거래소 출시 예정: Real Yield Protocol 기반
 - WEB3 생태계 개발
 - 프로토콜 및 생태계 프로토타이핑
 #### 2026년 이후
-- RWA 거래소 출시 예정: Real Yield Protocol 기반
+- 메인넷 출시 예정
 <br>
    
 
 ## 2. Who We Are   
 ### 2.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
-- **Paul Kim** - Chief Strategy Officer
+- **Yongchan Kim** - Board Council Chairman
 - **YongCheon Yang** - Chief Technology Officer
+- **Jeongtae Kim** - Secretary, Director
 - **Kwangil Cho** - Manager
 ### 2.2 Adviser
+- **Paul Kim** - Crypto Adviser
 - **Okjoo Lee** - Adviser
