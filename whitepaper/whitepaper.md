@@ -142,7 +142,7 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - WEB3 Ecosystem Development
 - Protocol & Ecosystem Prototyping
 #### 2026 and Beyond
-- Mainnet Launch Planned
+- Mainnet Planned
 <br>
 
 ## 3. Who We Are   
