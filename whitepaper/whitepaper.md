@@ -109,7 +109,18 @@ Artcoin's Tokenized RWA service provides the following business and functional o
     - Starting with artworks, gradually expanding to diverse RWAs to build a sustainable ecosystem for users and businesses.
 <br>
 
-### 1.4 Roadmap
+
+### 1.4 Reserved Asset
+#### Asset feature
+- Assets that continue to increase in value
+- Assets that are not tied to a region
+#### Type of Asset to reserve
+- Sustainable digital asset with community backed
+- Real Assets like artwork, ip
+- Financial Assets
+<br>
+ 
+## 2. Roadmap
 #### ~2023
 - EVM Mainnet (POW) Test
 - Generative AI Research: Stable Diffusion, DALL-E, Voice AI
@@ -130,7 +141,7 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - Mainnet Launch Planned
 <br>
 
-## 2. Who We Are   
+## 3. Who We Are   
 ### 2.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
 - **Yongchan Kim** - Board Council Chairman
