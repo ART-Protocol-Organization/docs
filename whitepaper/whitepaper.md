@@ -1,8 +1,8 @@
-# ART-Protocol Whitepaper
+# ART Protocol 
 <br>
 
 
-## 1. Protocol
+## 1. Whitepaper
 ### 1.1. Blockchain Mainnet
 #### 1.1.1. Overview of PoS   
 **PoS(Proof-of-Stake)** is a consensus mechanism used in blockchain networks. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on the ownership of tokens and stake contributions to assign roles in block validation and creation.   
