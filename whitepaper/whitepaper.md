@@ -32,11 +32,14 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 <br>
 
 ### 1.2. Artcoin
-#### 1.2.1 Tokenomics
+#### 1.2.1 Information
 1. **Token Name** : Artcoin     <https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842> 
 2. **Token Symbol** : ART
 3. **Token Total Supply** : 10,000,000,000
-4. **Token Distribution**   
+4. **Issuer** : Artcoin foundation, Location unknown
+5. **Operator** : Art Protocol Inc. US
+#### 1.2.2 Tokenomics
+**Token Distribution**   
     To support ecosystem growth and provide fair opportunities for various participants, Artcoin’s tokens are distributed as follows:
     - Ecosystem Growth: 20%   
         Allocated to expand the Artcoin ecosystem and invest in new features and services.
@@ -52,13 +55,13 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
         Used for the operations of the Artcoin foundation, including project management, legal support, and marketing.
     - Protocol: 20%   
         Dedicated to the ongoing development and upgrades of the blockchain protocol.
-#### 1.2.2 Artcoin’s Blockchain Networks
+#### 1.2.3 Artcoin’s Blockchain Networks
 - **Initial Launch on Ethereum** : Artcoin was initially launched on the Ethereum (ETH) network, a leading platform for smart contracts and decentralized applications (dApps). Ethereum provided a robust foundation with its extensive user base and strong security. However, as the network usage grew, challenges such as slower transaction speeds and higher gas fees emerged.
 - **Migration to Polygon** : To address the issues of high fees and limited scalability, Artcoin transitioned to the Polygon (MATIC) network. Polygon, a Layer 2 solution for Ethereum, enabled faster and more cost-effective transactions. This migration significantly improved the user experience by reducing fees and enhancing the network's overall efficiency.
 - **Final Transition to Base** : To strengthen its presence in the U.S. market and provide an improved user experience, Artcoin moved to the Base network. Base, a Layer 2 solution supported by Coinbase, offers low fees and high scalability. Leveraging Coinbase's extensive user base and reputation, this transition allowed Artcoin to enhance accessibility and adoption within the U.S. market.
 - **Planned Transition to a Proprietary Mainnet** : Artcoin is currently developing its own proprietary blockchain mainnet and plans to migrate once it is ready. The proprietary mainnet will enable Artcoin to achieve technical autonomy and provide users with an optimized transaction environment and enhanced scalability. This transition will mark a significant milestone in achieving full independence and strengthening the Artcoin ecosystem.   
 **Through these network transitions and the development of its proprietary mainnet, Artcoin aims to deliver superior services and experiences to its users while bolstering its competitiveness in the global market.**
-#### 1.2.3 Artcoin's Validator   
+#### 1.2.4 Artcoin's Validator   
 The Artcoin Validator program allows users to stake their coins and earn income from their deposits. This program includes the following terms and features:
 1. **Basic Deposit Requirement** : Users who deposit a minimum of 150,000 Artcoins into the Validator will receive rewards for their staked coins over the course of one year.
 2. **Reward Structure** : 
