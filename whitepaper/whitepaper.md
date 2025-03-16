@@ -156,7 +156,8 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 ## 3. Who We Are   
 ### 2.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
-- **Yongchan Kim** - Board Chairman
+- **Y. Kim** - Board Chairman
+- **Y. Yoon** - Chief Finance Officer
 - **YongCheon Yang** - Chief Technology Officer
 - **Jeongtae Kim** - Secretary, Director
 - **Kwangil Cho** - Manager
