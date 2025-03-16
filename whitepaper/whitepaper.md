@@ -27,9 +27,9 @@ ART Protocol combines random validator selection and economic incentives to stre
 - **Incentivized User Participation**: Anyone holding tokens can contribute to the network by staking and earn rewards.
 - **Economic Efficiency**: The simplified validation and reward processes eliminate resource inefficiencies.
 - **Maintaining Decentralization**: ART Protocol prevents centralization risks through staking participation and random validator selection.
-#### 1.1.4 PoS Conclusion   
+#### 1.1.5 PoS Conclusion   
 The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.   
-#### 1.1.5 Asset Protocol   
+#### 1.1.6 Asset Protocol   
 Asset protocol "programmed rules for the movement and transaction of tokenized assets" operates on the Web3.0 and trade platform based on smart contracts on the decentralized computing of blockchain.   
 
 ![asset_protocol](https://github.com/user-attachments/assets/5de64fe1-58a8-45a0-b8d3-d1a3fd4bfb4e)
