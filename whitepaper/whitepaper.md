@@ -36,7 +36,7 @@ Asset protocol "programmed rules for the movement and transaction of tokenized a
 
 - **DAO protocol**: Rules for the movement of goods and services with measurement of value among specific purpose groups(DAO : Decentralized Autonomous Organization)) in human society. Activities in production, services and consumption of prosuming style.
 - **Merchandising protocol**: Rules related to the overall activities of prosuming, including production and transportation, storage in intermediate processes, and securing a certain delivery time.
-- **Exchange protocol**: Rules for exchanging and trading tokenized assets and Artcoin is used as utility.
+- **Exchange protocol**: Rules for exchanging and trading tokenized assets and Artcoin is used as utility on Art Protocol.
 <br>
 
 ### 1.2. Artcoin
