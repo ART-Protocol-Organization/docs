@@ -31,7 +31,9 @@ ART Protocol combines random validator selection and economic incentives to stre
 The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.   
 #### 1.1.5 Asset Protocol   
 Asset protocol "programmed rules for the movement and transaction of tokenized assets" operates on the Web3.0 platform and overall trade platform based on smart contracts on the decentralized computing structure of blockchain.   
-![asset_protocol](https://github.com/user-attachments/assets/c7077884-fa41-4b31-b64f-16d31c0ceb4b)
+
+![asset_protocol](https://github.com/user-attachments/assets/5de64fe1-58a8-45a0-b8d3-d1a3fd4bfb4e)
+
 <br>
 
 ### 1.2. Artcoin
