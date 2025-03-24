@@ -32,7 +32,7 @@ The PoS-based mainnet of ART Protocol is designed to build a sustainable and eff
 #### 1.1.6 Asset Protocol   
 Asset protocol "programmed rules for the movement and transaction of tokenized assets" operates on the Web3.0 and trade platform based on smart contracts on the decentralized computing of blockchain.   
 
-![asset_protocol](https://github.com/user-attachments/assets/5de64fe1-58a8-45a0-b8d3-d1a3fd4bfb4e)
+![image](https://github.com/user-attachments/assets/e0623843-9b77-4967-8c21-0bdac039903c)
 
 - **DAO protocol**: Rules for the movement of goods and services with measurement of value among specific purpose groups(DAO : Decentralized Autonomous Organization)) in human society. Activities in production, services and consumption of prosuming style. Art Protocol's partner platform linked with DAO protocol.
   - ***Proof of Health*** : Calculate health index and royalty using food and exercise information
