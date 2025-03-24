@@ -90,6 +90,7 @@ The Artcoin Validator program allows users to stake their coins and earn income 
     - 1st unlock planned in late 2026, % will be released.
 7. **Burn plan** :
     - Burn planned.
+      
 **This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
 <br>
 
