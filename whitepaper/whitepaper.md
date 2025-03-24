@@ -85,8 +85,9 @@ The Artcoin Validator program allows users to stake their coins and earn income 
 5. **Income Rate Example** :
     - A user staking 150,000 Artcoins can expect an annual return of approximately 23.36%.
     - The effective income rate for the user's 70% share is approximately 16.35%.   
-6. **Halving plan** :
+6. **Halving & unlock plan** :
     - Distribute amount per hour reduced to half, when total distributed amount reach to the half of total amount.
+    - 1st unlock planned in late 2026, % will be released.
 **This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
 <br>
 
