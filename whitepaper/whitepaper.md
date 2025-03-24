@@ -38,8 +38,9 @@ Asset protocol "programmed rules for the movement and transaction of tokenized a
   - ***Proof of Health*** : Calculate health index and royalty using food and exercise information
   - ***Proof of Social*** : Calculate social sensitivity and loyalty using customer reactions, AI detected emotions
 - **Merchandising protocol**: Rules related to the overall activities of prosuming, including production and transportation, storage in intermediate processes, and securing a certain delivery time.
-  - ***Proof of Social*** : Calculate supply chain index and royalty using the contribution of the supply chain
+  - ***Proof of Supply Chain*** : Calculate supply chain index and royalty using the contribution of the supply chain
 - **Exchange protocol**: Rules for exchanging and trading tokenized assets and Artcoin is used as utility on Art Protocol.
+  - ***Proof of Exchange*** : Calculate exchange index and royalty using exchange history
 <br>
 
 ### 1.2. Artcoin
