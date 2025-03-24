@@ -141,20 +141,20 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - EVM Mainnet (POW) Test
 - Generative AI Research: Stable Diffusion, DALL-E, Voice AI
 #### 2024
-- RWA Tokenization Service Launch
+- RWA Tokenization polot launch
 - EVM Mainnet (POS) Test
-- Art Docent LLM and Chatbot Development
-- Artcoin and Validator Launch
+- Artcoin Validator launch
 - Tokenization Service Operation
-- AI Multi-modal Research: Music, Video
 #### 2025
-- CEX Listing
+- Artcoin listing
 - Expansion of RWA Tokenization Services
-- RWA Exchange Planned: Based on Real Yield Protocol
+- RWA Exchange launch : Based on Real Yield Protocol
 - WEB3 Ecosystem Development
 - Protocol & Ecosystem Prototyping
 #### 2026 and Beyond
 - Mainnet Planned
+- DeFi service
+- RWA Exchange expansion
 <br>
 
 ## 3. Who We Are   
