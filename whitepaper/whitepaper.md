@@ -47,7 +47,7 @@ Asset protocol "programmed rules for the movement and transaction of tokenized a
 4. **Token Total Supply** : 10,000,000,000
 5. **Issuer** : Artcoin foundation, Location unknown
 6. **Operator** : Art Protocol Inc. US
-   **Burn** : planned
+7. **Burn** : planned
     
 #### 1.2.2 Tokenomics
 **Token Distribution**   
