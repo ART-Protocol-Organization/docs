@@ -98,6 +98,7 @@ The Artcoin Validator program allows users to stake their coins and earn income 
 **This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
 <br>
 
+
 ### 1.3 Tokenized RWA (Real World Asset)
 #### 1.3.1 The Concept of WEB3 and RWA   
 RWA (Real World Asset) refers to the digitalization of real-world assets, allowing them to be managed and traded on the blockchain. In WEB3, RWA is tokenized, enabling transparent recording and management of ownership, transaction history, and authentication on the blockchain.   
