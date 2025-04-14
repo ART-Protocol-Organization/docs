@@ -151,7 +151,7 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - Artcoin Validator launch
 - Tokenization Service Operation
 #### 2025
-- Artcoin listing
+- Artcoin listing plan with migration
 - Expansion of RWA Tokenization Services
 - RWA Exchange launch : Based on Real Yield Protocol
 - WEB3 Ecosystem Development
