@@ -3,7 +3,7 @@
 ## Artcoin
 
 ### Artcoin price in US$ (ARTUSDT)
-- Link to Coinbase USDT reference price
+- Link to Coinbase USDT reference price realtime
 - After ART listed, it will be linked to other market prices
 
 
