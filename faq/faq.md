@@ -23,6 +23,6 @@
 - Partner register token image and contents for Token(NFT) contract
 - Create contrace
 - Mint tokens single or multi
-- Mall * Marketplace function option
+- Mall & Marketplace function option
 - Sell contents on malls (Amazon, Smartstore...)
 - Consign tokens to Art Protocol exchange for sell
