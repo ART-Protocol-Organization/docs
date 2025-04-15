@@ -2,7 +2,6 @@
 
 ##################################################################################################
 ## Ⅰ. Artcoin
-##################################################################################################
 
 ### 1. Artcoin price in US$ (ARTUSDT)
 - Link to Coinbase USDT reference price realtime
@@ -19,9 +18,11 @@
 - No fee for deposit
 - Withdraw fee 1 US$ include all (gas fee...)
 
+
+
+
 ##################################################################################################
 ## Ⅱ. Tokenize platform
-##################################################################################################
 
 ### 1. What is tokenize platform?
 Art Protocol provide as simple solution that tokenize partners' product , services and IP...
