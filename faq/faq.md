@@ -25,7 +25,7 @@
 ## Ⅱ. Tokenize platform
 
 ### 1. What is tokenize platform?
-Art Protocol provide as simple solution that tokenize partners' product , services and IP...
+Art Protocol provide simple solution that tokenize partners' product , services and IP...
 - Partner register token image and contents for Token(NFT) contract
 - Create contract
 - Mint tokens single or multi
