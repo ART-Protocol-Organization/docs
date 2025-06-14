@@ -157,7 +157,7 @@ https://drive.google.com/file/d/17E9FkAcnzJ0qJl9MxdZ1JxzO4fPeQGeA/view
 ### Web 3.0 Helps
 RWA tokenization in Web3.0 helps solve the polarization problem.
   
-![image](https://github.com/user-attachments/assets/8a5cf41a-2a7c-4eb1-8f25-1ee7553582d5)
+![image](https://github.com/user-attachments/assets/4509d0c8-4030-4e7a-91b0-670ea99a6692)
 
 
 ## 3. Roadmap
