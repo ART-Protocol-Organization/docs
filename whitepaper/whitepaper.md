@@ -152,8 +152,7 @@ https://drive.google.com/file/d/17E9FkAcnzJ0qJl9MxdZ1JxzO4fPeQGeA/view
 - Meta world : Connected activity
 - Tokenomics : DeFi, Asset Tokenization
 
-![image](https://github.com/user-attachments/assets/3b343ca8-4cc2-4264-bcec-453b3ef64d7a)
-
+![image](https://github.com/user-attachments/assets/32b7c07d-e196-4d5a-a80d-0bf77489c441)
 
 ### Web 3.0 Helps
 RWA tokenization in Web3.0 helps solve the polarization problem.
