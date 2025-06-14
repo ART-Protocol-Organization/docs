@@ -143,11 +143,22 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 
  
 ## 2. Web3.0
+
+Understanding and Response to Change
+https://drive.google.com/file/d/17E9FkAcnzJ0qJl9MxdZ1JxzO4fPeQGeA/view
+
 #### Live together in groups.  Web3.0
+RWA tokenization on Web3.0 helps solve the polarization problem.
+
 ![image](https://github.com/user-attachments/assets/3b343ca8-4cc2-4264-bcec-453b3ef64d7a)
 
 
 #### Web 3.0 Helps
+RWA tokenization in Web3.0 helps solve the polarization problem.
+- DAO : Value sharing organization
+- Meta world : Connected activity
+- Tokenomics : DeFi, Asset Tokenization
+  
 ![image](https://github.com/user-attachments/assets/8a5cf41a-2a7c-4eb1-8f25-1ee7553582d5)
 
 
