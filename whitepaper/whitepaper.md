@@ -140,8 +140,18 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - Real Assets like artwork, ip
 - Financial Assets
 <br>
+
  
-## 2. Roadmap
+## 2. Web3.0
+#### Live together in groups.  Web3.0
+![image](https://github.com/user-attachments/assets/3b343ca8-4cc2-4264-bcec-453b3ef64d7a)
+
+
+#### Web 3.0 Helps
+![image](https://github.com/user-attachments/assets/8a5cf41a-2a7c-4eb1-8f25-1ee7553582d5)
+
+
+## 3. Roadmap
 #### ~2023
 - EVM Mainnet (POW) Test
 - Generative AI Research: Stable Diffusion, DALL-E, Voice AI
@@ -162,14 +172,14 @@ Artcoin's Tokenized RWA service provides the following business and functional o
 - RWA Exchange expansion
 <br>
 
-## 3. Who We Are   
-### 3.1 Core Team Members
+## 4. Who We Are   
+### 4.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
 - **Y. Kim** - Board Chairman
 - **Eugene Yoon** - Chief Finance Officer
 - **YongCheon Yang** - Chief Technology Officer
 - **Jeongtae Kim** - Secretary, Director
 - **Kwangil Cho** - Manager
-### 3.2 Adviser
+### 4.2 Adviser
 - **Paul Kim** - Crypto Adviser
 - **Okjoo Lee** - Adviser
