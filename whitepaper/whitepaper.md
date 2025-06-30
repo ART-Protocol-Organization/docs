@@ -121,6 +121,7 @@ Artcoin is transforming the traditional asset custody and trading system through
       
 #### 1.3.3 PoR (Proof of Reserve) 
 PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transforming token promises into verifiable ownership of real-world assets.
+
 ![image](https://github.com/user-attachments/assets/8fbef208-c0c3-4192-a0ce-76787fb941a2)
 
     - 
