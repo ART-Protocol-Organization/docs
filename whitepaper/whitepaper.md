@@ -118,6 +118,13 @@ Artcoin is transforming the traditional asset custody and trading system through
 3. **Scalability**
     - Currently, the service supports **artworks**, but it will expand to include other real-world assets like **tea** and **gold** in the future.
     - This expansion aims to support a broader RWA market and strengthen Artcoin's position in the global market.
+      
+#### 1.3.3 PoR (Proof of Reserve) 
+PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transforming token promises into verifiable ownership of real-world assets.
+
+![por](https://github.com/user-attachments/assets/12869143-ff89-479c-a2a3-c6e27f6caf45)
+
+    - 
 #### Business Model and Features   
 Artcoin's Tokenized RWA service provides the following business and functional offerings :
 1. **Asset Authentication and Digitalization**
