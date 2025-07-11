@@ -1,4 +1,4 @@
-# Whitepaper - executive summary
+# Whitepaper - summary
 <br>
 
 
