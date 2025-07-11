@@ -192,9 +192,8 @@ RWA tokenization in Web3.0 helps solve the polarization problem.
 ### 4.1 Core Team Members
 - **Yongchan Keum** - Chief Executive Officer
 - **Y. Kim** - Board Chairman
-- **Eugene Yoon** - Chief Finance Officer
 - **YongCheon Yang** - Chief Technology Officer
-- **Jeongtae Kim** - Secretary, Director
+- **Jeongtae Kim** - CFO, Secretary, Director
 - **Kwangil Cho** - Manager
 ### 4.2 Adviser
 - **Paul Kim** - Crypto Adviser
