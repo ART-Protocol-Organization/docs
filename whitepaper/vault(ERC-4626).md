@@ -1,6 +1,6 @@
 # ERC-4626 yield bearing token 
 
-<img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/731b4e5f-db1a-4c1f-b96e-9200416638e0" />
+<img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/81b3b7eb-72f2-464c-ae38-388f60a52038" />
 
 ERC-4626, the Tokenized Vault Standard, is a crucial advancement in decentralized finance (DeFi), designed to standardize how yield-bearing vaults operate. 
 By extending the ERC-20 token standard, it introduces a unified framework that simplifies integration, improves security, and enhances interoperability across DeFi protocols. 
@@ -10,6 +10,7 @@ This consistency reduces complexity for developers and improves the user experie
 Major DeFi projects like Yearn Finance and Balancer have already adopted ERC-4626, signaling its growing importance. 
 
 As the DeFi space evolves, ERC-4626 is set to become a foundational standard for yield-generating applications.
+
 
 
 # ERC-4626 Tokenized Vault Standard : https://ethereum.org/
