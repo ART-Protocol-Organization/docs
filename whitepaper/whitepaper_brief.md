@@ -1,4 +1,4 @@
-# ART Protocol Whitepaper
+# Whitepaper - executive summary
 <br>
 
 
