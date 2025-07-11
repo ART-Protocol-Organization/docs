@@ -106,11 +106,11 @@ Partner integration and token drop services
 
 - P&L Projections (US$ 000):
 
-2025: Revenue $526 | Profit $64
+2026: Revenue $526 | Profit $64
 
-2026: Revenue $3,154 | Profit $930
+2027: Revenue $3,154 | Profit $930
 
-2027: Revenue $7,876 | Profit $3,386
+2028: Revenue $7,876 | Profit $3,386
 
 
 ## 11. Exit Strategy
