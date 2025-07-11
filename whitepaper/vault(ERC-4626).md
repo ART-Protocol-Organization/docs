@@ -1,64 +1,20 @@
-1. 프로젝트 소개   
-- **비전과 목표: 프로젝트가 해결하고자 하는 문제와 달성하려는 목표.**
-- **배경 및 맥락: 해당 프로토콜/코인의 필요성을 설명.**
-- **핵심 가치: 탈중앙화, 보안성, 확장성, 사용자 경험 등 프로젝트의 가치를 명확히 정의.**
+# ERC-4626 yield bearing token 
 
-2. 기술 아키텍처   
-- **블록체인 구조: Layer 1 vs Layer 2, 합의 알고리즘, 노드 네트워크 설계.**
-- **스마트 컨트랙트: 주요 기능, 가스 비용 최적화 방안.**
-- **데이터 저장 및 관리: 온체인/오프체인 데이터 처리 방식.**
-- **Web3 통합: Wallet, dApp, DeFi 등과의 연결.**
-- 인터체인 호환성: 다른 블록체인과의 상호운용성.
+<img width="892" height="351" alt="image" src="https://github.com/user-attachments/assets/731b4e5f-db1a-4c1f-b96e-9200416638e0" />
 
-3. 토큰 이코노믹스   
-- **토큰 분배: 초기 분배 계획(예: 팀, 투자자, 커뮤니티).**
-- **사용 사례: 토큰이 네트워크에서 어떤 역할을 하는지(거래, 스테이킹, 거버넌스 등).**
-- **인플레이션/디플레이션 모델: 발행 및 소각 메커니즘.**
-- **수익 모델: 프로토콜이 장기적으로 지속 가능하게 운영되는 방식.**
+ERC-4626, the Tokenized Vault Standard, is a crucial advancement in decentralized finance (DeFi), designed to standardize how yield-bearing vaults operate. 
+By extending the ERC-20 token standard, it introduces a unified framework that simplifies integration, improves security, and enhances interoperability across DeFi protocols. 
 
-4. 거버넌스 모델   
-- **탈중앙화 거버넌스: 제안, 투표, 실행 메커니즘.**
-- **DAO 통합: 커뮤니티 중심의 의사 결정 구조.**
-- 업그레이드 계획: 프로토콜 변경 사항 적용 방법.
+Users can deposit ERC-20 tokens into vaults and receive proportional shares, while vaults deploy strategies to generate yield. 
+This consistency reduces complexity for developers and improves the user experience by enabling smoother interactions across platforms. 
+Major DeFi projects like Yearn Finance and Balancer have already adopted ERC-4626, signaling its growing importance. 
 
-5. 보안 및 안정성   
-- **네트워크 보안: 합의 메커니즘 및 공격 방지 설계.**
-- **스마트 컨트랙트 보안: 검증 및 감사를 통한 취약점 최소화.**
-- **규정 준수: KYC/AML과 같은 법적 요구사항.**
+As the DeFi space evolves, ERC-4626 is set to become a foundational standard for yield-generating applications.
 
-6. 사용 사례 및 애플리케이션   
-- 주요 사용 사례: DeFi, NFT, Supply Chain, Gaming, SocialFi 등.
-- **파트너십과 협력: 주요 파트너와의 협업 사례.**
-- 유저 시나리오: 플랫폼이 실생활에서 어떻게 사용되는지 설명.
 
-7. 로드맵 및 개발 계획   
-- **단기/장기 목표: 출시 일정, 기능 추가, 네트워크 확장 계획.**
-- **기술 개발 단계: Alpha, Beta, Mainnet 등.**
-- 지속적인 개선 방안: 사용자 피드백 수집 및 반영 방식.
+# https://ethereum.org/
+### ERC-4626 Tokenized Vault Standard
 
-8. 경제적/사회적 임팩트   
-- 탈중앙화의 가치: 사용자가 얻는 자유와 권리.
-- 포용성과 접근성: 비은행 사용자, 개발도상국을 위한 기능.
-- ESG 목표: 환경, 사회, 거버넌스 측면에서의 기여.
-
-9. 경쟁 분석   
-- **시장 분석: 블록체인 업계 내 경쟁 상황.**
-- **차별점: 경쟁 프로젝트와 비교해 기술적, 경제적, 사회적 우위 설명.**
-
-10. 리스크 및 해결 방안   
-- **기술적 리스크: 블록체인 삼중 딜레마, 확장성 문제.**
-- **경제적 리스크: 가격 변동성, 시장 불확실성.**
-- **규제 리스크: 각국 정부의 법적 규제와 대응 방안.**
-
-11. 커뮤니티 및 생태계   
-- 개발자 생태계: SDK, API, 문서화 등.
-- **커뮤니티 활성화 전략: 인센티브 제공, 홍보 및 참여 유도.**
-- 파트너 네트워크: 디앱, 디파이, 기관 투자자 등과의 관계.
-
-12. 참고 자료   
-- **기술 문서: API 문서, 컨트랙트 코드, 노드 실행 가이드.**
-- **오픈소스 리소스: GitHub 링크, 개발 가이드.**
-- 추가 리소스: 블로그, 연구 논문, 발표 자료.
-
-CEX 상장
-반감기
+ERC-4626 is a standard to optimize and unify the technical parameters of yield-bearing vaults. It provides a standard API for tokenized yield-bearing vaults that represent shares of a single underlying ERC-20 token. ERC-4626 also outlines an optional extension for tokenized vaults utilizing ERC-20, offering basic functionality for depositing, withdrawing tokens and reading balances.
+  
+https://ethereum.org/ko/developers/docs/standards/tokens/erc-4626/
