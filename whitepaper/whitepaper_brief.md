@@ -129,7 +129,4 @@ Email: artcoin64@gmail.com
 
 Whitepaper Repo: https://github.com/ART-Protocol-Organization/docs
 
-
-## ※ business plan update
-
-https://drive.google.com/file/d/1q4TagKbsSZU7RIgvE7Sa_uqRR6nOentu/view
+Business plan :  https://drive.google.com/file/d/1q4TagKbsSZU7RIgvE7Sa_uqRR6nOentu/view
