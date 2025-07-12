@@ -126,7 +126,7 @@ PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transform
 ![image](https://github.com/user-attachments/assets/8fbef208-c0c3-4192-a0ce-76787fb941a2)
 
 #### 1.3.4 Vault specification ERC-4626
-    - 
+
 https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
 
     
