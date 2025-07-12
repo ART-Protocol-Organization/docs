@@ -200,7 +200,9 @@ RWA tokenization in Web3.0 helps solve the polarization problem.
 - **Y. Kim** - Board Chairman
 - **YongCheon Yang** - Chief Technology Officer
 - **Jeongtae Kim** - CFO, Secretary, Director
-- **Kwangil Cho** - Manager
+- **Jass Jayasinghe** - Tech. Manager
+- **Steve** - Marketing Manager
+- **Kwangil Cho** - BlockChain Manager
 ### 4.2 Adviser
 - **Paul Kim** - Crypto Adviser
 - **Okjoo Lee** - Adviser
