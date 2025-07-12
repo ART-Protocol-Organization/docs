@@ -151,7 +151,8 @@ Artcoin's Tokenized RWA service provides the following business and functional o
  
 ## 2. Web3.0
 
-Understanding and Response to Change
+Understanding and Response to Change :
+
 https://drive.google.com/file/d/17E9FkAcnzJ0qJl9MxdZ1JxzO4fPeQGeA/view
 
 ### Live together in groups.  Web3.0
@@ -214,6 +215,3 @@ Business plan :  https://drive.google.com/file/d/1q4TagKbsSZU7RIgvE7Sa_uqRR6nOen
 Pitch deck : https://drive.google.com/file/d/1AMRODApTijODmPSa8nqw66pw0L1p-uiV/view?usp=sharing
 
 
-## ※ business plan update
-
-https://drive.google.com/file/d/1q4TagKbsSZU7RIgvE7Sa_uqRR6nOentu/view
