@@ -107,6 +107,7 @@ The tokenization of RWA offers several advantages :
 2. **Accessibility** : Anyone can access and trade RWA through the blockchain network.
 3. **Liquidity** : Assets with low liquidity in traditional markets can be digitized and traded more widely.
 4. **Security** : Ownership of assets is securely managed through the decentralized ledger of the blockchain.
+   
 #### 1.3.2 ART Protocol’s RWA Authentication and Trading System   
 Artcoin is transforming the traditional asset custody and trading system through its **NFT-based RWA authentication service**.
 1. **NFT Authentication**
@@ -124,7 +125,11 @@ PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transform
 
 ![image](https://github.com/user-attachments/assets/8fbef208-c0c3-4192-a0ce-76787fb941a2)
 
+#### 1.3.4 Vault specification ERC-4626
     - 
+https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
+
+    
 #### Business Model and Features   
 Artcoin's Tokenized RWA service provides the following business and functional offerings :
 1. **Asset Authentication and Digitalization**
