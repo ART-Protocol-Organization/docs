@@ -130,7 +130,7 @@ PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transform
 https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
 
     
-#### Business Model and Features   
+#### 1.3.5 Business Model and Features   
 Artcoin's Tokenized RWA service provides the following business and functional offerings :
 1. **Asset Authentication and Digitalization**
     - Verifying real-world assets and issuing NFTs to integrate them into the digital ecosystem.
