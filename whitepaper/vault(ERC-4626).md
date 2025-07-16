@@ -1,6 +1,6 @@
 # Art Protocol will serve ERC-4626 vault service 
 
-## ERC-4626 yield bearing token 
+## 1. ERC-4626 yield bearing token 
 
 <img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/81b3b7eb-72f2-464c-ae38-388f60a52038" />
 
@@ -15,7 +15,7 @@ As the DeFi space evolves, ERC-4626 is set to become a foundational standard for
 
 
 
-## ERC-4626 Tokenized Vault Standard : https://ethereum.org/
+## 2. ERC-4626 Tokenized Vault Standard : https://ethereum.org/
 
 ERC-4626 is a standard to optimize and unify the technical parameters of yield-bearing vaults. It provides a standard API for tokenized yield-bearing vaults that represent shares of a single underlying ERC-20 token. ERC-4626 also outlines an optional extension for tokenized vaults utilizing ERC-20, offering basic functionality for depositing, withdrawing tokens and reading balances.
 
