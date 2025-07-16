@@ -217,7 +217,7 @@ Email: artcoin64@gmail.com
 
 Whitepaper Repo: (here)
 
-Summary: 
+Summary: https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/whitepaper_brief.md
 
 Vault(ERC-4626): https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
 
