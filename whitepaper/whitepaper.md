@@ -174,25 +174,8 @@ RWA tokenization in Web3.0 helps solve the polarization problem.
 
 
 ## 3. Roadmap
-#### ~2023
-- EVM Mainnet (POW) Test
-- Generative AI Research: Stable Diffusion, DALL-E, Voice AI
-#### 2024
-- RWA Tokenization polot launch
-- EVM Mainnet (POS) Test
-- Artcoin Validator launch
-- Tokenization Service Operation
-#### 2025
-- Artcoin listing plan with migration
-- Expansion of RWA Tokenization Services
-- RWA Exchange launch : Based on Real Yield Protocol
-- WEB3 Ecosystem Development
-- Protocol & Ecosystem Prototyping
-#### 2026 and Beyond
-- Mainnet Planned
-- DeFi service
-- RWA Exchange expansion
-<br>
+
+Check business plan below.
 
 ## 4. Who We Are   
 
