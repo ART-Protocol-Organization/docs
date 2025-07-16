@@ -1,4 +1,4 @@
-# Art Protocol will serve ERC-4626 vault service 
+# Art Protocol : ERC-4626 vault service planned
 
 ## 1. ERC-4626 yield bearing token 
 
@@ -37,15 +37,15 @@ https://eips.ethereum.org/EIPS/eip-7575
 
 <img width="935" height="330" alt="image" src="https://github.com/user-attachments/assets/5ea9c51f-c94a-4a6c-b8f6-6709a45ec293" />
 
-① Vault owner
+① Vault owner register Vault
 
-② Vault user
+② Vault user deposit assets(wrapped assets)
 
-③ Vault owner
+③ Vault owner get assets(wrapped assets)
 
-④ Vault owner
+④ Vault owner deposit earn
 
-⑤ Vault user
+⑤ Vault user withdraw assets(wrapped assets) + earn
 
 
 
