@@ -33,7 +33,8 @@ ERC-4626 is limited to single-asset vaults since it must be an ERC-20 token. ERC
 https://eips.ethereum.org/EIPS/eip-7575
 
 
-## 3. Art Protocol's vault service
+## 3. Art Protocol's vault service (Concept)
+### MVP planned
 
 <img width="935" height="330" alt="image" src="https://github.com/user-attachments/assets/5ea9c51f-c94a-4a6c-b8f6-6709a45ec293" />
 
