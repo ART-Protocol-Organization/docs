@@ -46,12 +46,13 @@ Asset protocol "programmed rules for the movement and transaction of tokenized a
 ### 1.2. Artcoin
 #### 1.2.1 Information
 1. **Token Name** : Artcoin
-2. **Token Symbol** : ART
-3. **Contract**  :    <https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842> 
-4. **Token Total Supply** : 10,000,000,000
-5. **Issuer** : Artcoin foundation, Location unknown
-6. **Operator** : Art Protocol Inc. US
-7. **Burn** : planned
+2. **Token Symbol** : ART3. 
+3. **Token Type** : Utility token used in Art Protocol, Not used for any physical transactions or payment.
+4. **Contract**  :    <https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842> 
+5. **Token Total Supply** : 10,000,000,000
+6. **Issuer** : Artcoin foundation, Location unknown
+7. **Operator** : Art Protocol Inc. US
+8. **Burn** : planned
     
 #### 1.2.2 Tokenomics
 **Token Distribution**   
