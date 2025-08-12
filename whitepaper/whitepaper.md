@@ -190,13 +190,12 @@ Website: https://www.artprotocol.net
 
 Email: artcoin64@gmail.com
 
-Whitepaper Repo: (here)
 
-Summary: https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/whitepaper_brief.md
 
 Vault(ERC-4626): https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
 
 Business plan :  https://drive.google.com/file/d/1q4TagKbsSZU7RIgvE7Sa_uqRR6nOentu/view
 
+Summary: https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/whitepaper_brief.md
 
 
