@@ -110,7 +110,7 @@ The tokenization of RWA offers several advantages :
 4. **Security** : Ownership of assets is securely managed through the decentralized ledger of the blockchain.
    
 #### 1.3.2 ART Protocol’s RWA Authentication and Trading System   
-Artcoin is transforming the traditional asset custody and trading system through its **NFT-based RWA authentication service**.
+ART Protocol is transforming the traditional asset custody and trading system through its **NFT-based RWA authentication service**.
 1. **NFT Authentication**
     - The Artcoin platform verifies RWAs, such as artworks, and issues NFTs representing these assets.
     - These NFTs contain ownership and authentication information, making it easy to verify the authenticity and ownership of assets.
