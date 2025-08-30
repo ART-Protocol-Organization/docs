@@ -112,14 +112,14 @@ The tokenization of RWA offers several advantages :
 #### 1.3.2 ART Protocol’s RWA Authentication and Trading System   
 ART Protocol is transforming the traditional asset custody and trading system through its **NFT-based RWA authentication service**.
 1. **NFT Authentication**
-    - The Artcoin platform verifies RWAs, such as artworks, and issues NFTs representing these assets.
+    - The ART Protocol platform verifies RWAs, such as artworks, and issues NFTs representing these assets.
     - These NFTs contain ownership and authentication information, making it easy to verify the authenticity and ownership of assets.
 2. **Custody and Trading System**
     - NFTs are traded on the blockchain, simplifying the transfer of ownership for RWAs.
-    - Artcoin provides secure asset custody services and improves user experience by automating transactions via smart contracts.
+    - ART Protocol provides secure asset custody services and improves user experience by automating transactions via smart contracts.
 3. **Scalability**
     - Currently, the service supports **artworks**, but it will expand to include other real-world assets like **tea** and **gold** in the future.
-    - This expansion aims to support a broader RWA market and strengthen Artcoin's position in the global market.
+    - This expansion aims to support a broader RWA market and strengthen ART Protocol's position in the global market.
       
 #### 1.3.3 PoR (Proof of Reserve) 
 PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transforming token promises into verifiable ownership of real-world assets.
