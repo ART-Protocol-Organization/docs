@@ -1,4 +1,4 @@
-# Art Protocol : ERC-4626 vault service planned
+# Art Protocol : vault service planned
 
 ## 1. ERC-4626 yield bearing token 
 
