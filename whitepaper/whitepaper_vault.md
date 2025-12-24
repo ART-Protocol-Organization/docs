@@ -49,8 +49,125 @@ https://eips.ethereum.org/EIPS/eip-7575
 ⑤ Vault user withdraw assets(wrapped assets) + earn
 
 
+## 4. Vault User Operations
+1. User Onboarding & Wallet Generation
 
+Users begin by creating a PIGLUCK account through the platform interface.
 
+Upon sign-up, the system generates a non-custodial EVM-compatible wallet for the user.
+
+The wallet serves as the user’s unique on-chain identity and is used for:
+
+Vault deposits
+
+Vault share accounting
+
+Withdrawals
+
+Reward distribution
+
+Private keys are managed securely according to the selected wallet model (user-controlled or secure key management solution).
+
+This process abstracts blockchain complexity while preserving Web3 ownership principles.
+
+2. Asset Deposit into Vault
+
+Once the wallet is created, users can deposit supported assets into a selected Vault.
+
+Supported Asset (example): USDT (Profit Vault)
+
+Users choose a Vault and specify the deposit amount.
+
+Assets are transferred from the user’s wallet to the Vault smart contract.
+
+In return, the user receives Vault share tokens representing proportional ownership of the Vault’s total assets.
+
+All deposits are handled by smart contracts compliant with ERC-4626, ensuring transparency and standardization.
+
+3. Vault Asset Balance & Reporting
+
+Users can view their Vault position at any time through the dashboard.
+
+Displayed information includes:
+
+Deposited principal
+
+Current Vault balance
+
+Accrued yield (if applicable)
+
+Share-to-asset conversion value
+
+Historical deposit and withdrawal records
+
+Vault balances are calculated on-chain and reflect real-time Vault performance.
+
+4. Asset Withdrawal from Vault
+
+Users may withdraw assets partially or fully, subject to Vault-specific rules.
+
+Withdrawal requests burn the corresponding Vault share tokens.
+
+The equivalent amount of underlying assets (e.g., USDT) is returned to the user’s wallet.
+
+Withdrawal liquidity depends on the Vault type:
+
+Profit Vault: Subject to liquidity conditions and yield cycles
+
+Bitcoin Vault: Asset conversion based on BTC holdings
+
+Artwork Vault: Partial liquidity supported without liquidating the entire collection
+
+All withdrawals are executed transparently via smart contracts.
+
+5. Profit Vault: Automated Crypto Card Top-Up
+
+The Profit Vault introduces a unique operational flow that bridges DeFi yield with real-world usage.
+
+Yield Distribution Mechanism
+
+Vault generates yield through high-yield DeFi strategies.
+
+The total Vault size is capped to prevent yield dilution.
+
+A portion of realized yield (targeting ~10% monthly) is allocated for user rewards.
+
+Card Top-Up Flow
+
+Yield is calculated at the Vault level.
+
+User-specific reward amounts are determined based on Vault share ownership.
+
+Rewards are automatically converted into crypto card balance credits.
+
+Users can immediately use the credited balance for real-world payments.
+
+This mechanism transforms passive yield into usable financial utility, rather than idle on-chain balances.
+
+6. Operational Flow Summary
+Sign Up
+  ↓
+EVM Wallet Generation
+  ↓
+Vault Deposit (USDT)
+  ↓
+Vault Share Issuance
+  ↓
+Vault Yield / Asset Management
+  ↓
+• Balance Tracking
+• Withdrawal (USDT)
+• (Profit Vault only) Auto Card Top-Up
+
+7. Key User Experience Principles
+
+Simplicity: Complex DeFi mechanics are abstracted behind a clean UX.
+
+Transparency: All balances and flows are verifiable on-chain.
+
+Utility: Yield is not only accumulated but actively usable.
+
+Control: Users retain ownership and withdrawal rights at all times.
 
 
 
