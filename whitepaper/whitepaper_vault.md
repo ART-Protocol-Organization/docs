@@ -135,3 +135,16 @@ This enables **usable yield**, not just passive accumulation.
 
 ## 6. Operational Flow Summary
 
+
+<img width="683" height="594" alt="image" src="https://github.com/user-attachments/assets/0ae06ff9-1e74-4c30-90d2-23e00623e327" />
+
+
+---
+
+## 7. User Experience Principles
+
+- **Simplicity:** DeFi complexity is abstracted.
+- **Transparency:** On-chain verification of balances.
+- **Utility:** Yield is converted into real-world spending power.
+- **Control:** Users retain withdrawal rights at all times.
+
