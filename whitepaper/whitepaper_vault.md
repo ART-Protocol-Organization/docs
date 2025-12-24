@@ -53,6 +53,8 @@ https://eips.ethereum.org/EIPS/eip-7575
 
 
 
+
+
 # Vault User Operations
 
 ## 1. User Onboarding & Wallet Generation
@@ -69,7 +71,9 @@ Users begin by creating a PIGLUCK account through the platform interface.
 
 This approach abstracts blockchain complexity while preserving Web3 ownership.
 
----
+
+
+
 
 ## 2. Asset Deposit into Vault
 
@@ -82,7 +86,9 @@ After wallet creation, users can deposit supported assets into a Vault.
 
 All deposits follow the **ERC-4626** standard.
 
----
+
+
+
 
 ## 3. Vault Asset Balance & Reporting
 
@@ -97,7 +103,9 @@ Displayed information includes:
 
 All balances are calculated on-chain for full transparency.
 
----
+
+
+
 
 ## 4. Asset Withdrawal from Vault
 
@@ -112,7 +120,9 @@ Users may withdraw assets partially or fully, depending on Vault rules.
 
 Withdrawals are executed via smart contracts.
 
----
+
+
+
 
 ## 5. Profit Vault: Automated Crypto Card Top-Up
 
@@ -131,7 +141,9 @@ The Profit Vault uniquely connects DeFi yield to real-world spending.
 
 This enables **usable yield**, not just passive accumulation.
 
----
+
+
+
 
 ## 6. Operational Flow Summary
 
@@ -139,7 +151,9 @@ This enables **usable yield**, not just passive accumulation.
 <img width="683" height="594" alt="image" src="https://github.com/user-attachments/assets/0ae06ff9-1e74-4c30-90d2-23e00623e327" />
 
 
----
+
+
+
 
 ## 7. User Experience Principles
 
