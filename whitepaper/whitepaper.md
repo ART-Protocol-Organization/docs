@@ -54,6 +54,8 @@ Asset protocol "programmed rules for the movement and transaction of tokenized a
 7. **Operator** : Art Protocol Inc. US
 8. **Operator Address** : 3400 EL CAMINO REAL, 9, SANTA CLARA, CA, USA
 9. **Burn** : planned
+10. **PancakeSwap** : https://pancakeswap.finance/swap?inputCurrency=0xdAC17F958D2ee523a2206206994597C13D831ec7&outputCurrency=0xC33297B036aFbE0Da079B8Eba229a10964a30842&chain=eth&chainOut=base
+
     
 #### 1.2.2 Tokenomics
 **Token Distribution**   
