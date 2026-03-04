@@ -1,8 +1,14 @@
 # ART Protocol Whitepaper
-<br>
+<br/><br/>
+
+## Join Our Community
+We'd love to hear from you. Please consider joining us on 
+[Telegram](https://t.me/artcoin_group/1) 
+. You can also contact us at artcoin64@gmail.com
 
 
-## 1. Protocol
+<br/><br/>
+## 1. Art Protocol
 ### 1.1 Blockchain Mainnet
 #### 1.1.1 Overview of PoS   
 **PoS(Proof-of-Stake)** is a consensus mechanism used in blockchain networks. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on the ownership of tokens and stake contributions to assign roles in block validation and creation.   
