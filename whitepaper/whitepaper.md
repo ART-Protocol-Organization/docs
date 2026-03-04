@@ -182,24 +182,26 @@ RWA tokenization in Web3.0 helps solve the polarization problem.
   
 ![image](https://github.com/user-attachments/assets/4509d0c8-4030-4e7a-91b0-670ea99a6692)
 
+<br/><br/>
+<br/><br/>
 
-## 3. Roadmap
+<br/><br/>
 
-Check business plan below.
-
-## 4. Who We Are   
-
-Check business plan below.
-
-
-
-## 5. Contact
+## 3. Contact
 
 Website: https://www.artprotocol.net
 
 Email: artcoin64@gmail.com
 
 
+<br/><br/>
+
+## 4. Directional articles
+[Crypto-Native Financial Loop: From Creation to Yield to Real-World Spending](https://medium.com/@bipasori/crypto-native-financial-loop-from-creation-to-yield-to-real-world-spending-21853819bed9)
+[Universal Basic Yield (UBY)](https://medium.com/@bipasori/universal-basic-yield-uby-a-new-model-for-inclusive-income-f6584f2d567d)
+[TeleZon(TZ) : From Seeing the World to Extracting Value from It](https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-from-it-fb7a84f38781)
+
+<br/><br/><br/>
 
 Vault(ERC-4626): https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
 
