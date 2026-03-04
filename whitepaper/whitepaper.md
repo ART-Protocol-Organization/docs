@@ -198,7 +198,9 @@ Email: artcoin64@gmail.com
 
 ## 4. Directional articles
 [Crypto-Native Financial Loop: From Creation to Yield to Real-World Spending](https://medium.com/@bipasori/crypto-native-financial-loop-from-creation-to-yield-to-real-world-spending-21853819bed9)
+
 [Universal Basic Yield (UBY)](https://medium.com/@bipasori/universal-basic-yield-uby-a-new-model-for-inclusive-income-f6584f2d567d)
+
 [TeleZon(TZ) : From Seeing the World to Extracting Value from It](https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-from-it-fb7a84f38781)
 
 <br/><br/><br/>
