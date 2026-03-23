@@ -177,7 +177,7 @@ https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-f
 
 #### ERC-8004: Trustless Agents
 - Discover agents and establish trust through reputation and validation
-- 
+  
 https://eips.ethereum.org/EIPS/eip-8004
 
 <br>
