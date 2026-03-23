@@ -177,6 +177,24 @@ https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-f
 
 #### ERC-8004: Trustless Agents
 - Discover agents and establish trust through reputation and validation
+
+#### Core Components
+- Identity Registry
+Registers AI agents as NFTs (ERC-721)
+
+Agent = on-chain identity + metadata
+
+- Reputation Registry
+Stores feedback, scores, and tags
+
+Enables accumulated and reusable reputation
+
+- Validation Registry
+Verifies agent task results
+
+Methods: validators, zk proofs, TEE, etc.
+
+Records results as scores
   
 https://eips.ethereum.org/EIPS/eip-8004
 
