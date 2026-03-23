@@ -163,6 +163,25 @@ ART Protocol's Tokenized RWA service provides the following business and functio
 - Financial Assets
 <br>
 
+
+### 1.5 AI Agent on Blockchain
+#### TelleZon
+- From Seeing the World to Extracting Value from It
+- Tele + Zon
+* Tele: distance, remote connection, the collapse of physical space
+* Zon: real value derived from human existential essence
+
+https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-from-it-fb7a84f38781
+
+<br>
+
+#### ERC-8004: Trustless Agents
+- Discover agents and establish trust through reputation and validation
+- 
+https://eips.ethereum.org/EIPS/eip-8004
+
+<br>
+
  
 ## 2. Web3.0
 
