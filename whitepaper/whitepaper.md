@@ -180,16 +180,19 @@ https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-f
 
 #### Core Components
 - Identity Registry
+
 Registers AI agents as NFTs (ERC-721)
 
 Agent = on-chain identity + metadata
 
 - Reputation Registry
+
 Stores feedback, scores, and tags
 
 Enables accumulated and reusable reputation
 
 - Validation Registry
+  
 Verifies agent task results
 
 Methods: validators, zk proofs, TEE, etc.
