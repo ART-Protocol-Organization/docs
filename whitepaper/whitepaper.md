@@ -137,7 +137,9 @@ Network token emission rates adjust dynamically according to protocol governance
 Token unlock schedules are aligned with predetermined protocol phases and ecosystem milestones.
 
 1.3 Tokenized RWA (Real-World Assets)
+
 1.3.1 The Concept of Web3 and RWA
+
 RWA (Real-World Asset) tokenization refers to representing ownership or rights to physical and traditional assets on a blockchain. This enables transparent, tamper-proof tracking of provenance, ownership history, and authentication.
 
 Transparency: Ownership and transaction histories are recorded on-chain.
@@ -158,9 +160,12 @@ Custody and Trading: Physical assets are held in secure custody while their corr
 Asset Expansion: Initially focused on artworks, the protocol is designed to expand into commodities and collectibles such as specialty tea and gold.
 
 1.3.3 Proof of Reserve (PoR)
+
 Proof of Reserve (PoR) provides transparent verification that tokenized assets on-chain are fully backed by physical assets held in custody.
 
 1.3.4 Technical Documentation
+
+
 Vault Specification: Whitepaper Vault Specification
 
 ERC-4626 Vault Standard: Vault (ERC-4626) Documentation
@@ -168,6 +173,7 @@ ERC-4626 Vault Standard: Vault (ERC-4626) Documentation
 Executive Summary: Whitepaper Brief
 
 1.3.5 Business Model and Core Features
+
 Asset Authentication and Digitalization: Verifying physical assets and issuing standardized on-chain certificates.
 
 Decentralized Marketplace: Enabling peer-to-peer trading of authenticated RWA tokens.
@@ -190,6 +196,7 @@ Tangible real-world assets (fine art, intellectual property).
 Liquid financial instruments.
 
 1.5 AI Agents on Blockchain
+
 TeleZon
 From Seeing the World to Extracting Value from It
 
@@ -207,6 +214,7 @@ Reputation Registry: Stores historical feedback, performance scores, and tags to
 Validation Registry: Verifies agent task execution using cryptographic methods (validators, zero-knowledge proofs, TEEs) and records validation scores on-chain.
 
 2. Web3.0 Vision
+   
 Collaborative Web3.0 Ecosystem
 DAO: Value-sharing decentralized organizations.
 
@@ -218,8 +226,7 @@ Addressing Economic Polarization via Web3.0
 By lowering barriers to entry for high-value assets through RWA tokenization, Web3.0 infrastructure promotes broader access to wealth creation and transparent value distribution.
 
 3. Official Channels
+4. 
 Website: https://www.artprotocol.net
-
-GitHub: https://github.com/ART-Protocol-Organization
 
 Disclaimer: This whitepaper is for informational purposes only and does not constitute financial, legal, or investment advice, nor an offer to sell or a solicitation of an offer to buy any securities or financial instruments.
