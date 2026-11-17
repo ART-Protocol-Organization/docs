@@ -1,248 +1,218 @@
-# ART Protocol Whitepaper
-<br/><br/>
+ART Protocol Whitepaper
+1. Art Protocol
+1.1 Blockchain Mainnet Architecture (Planned)
+1.1.1 Overview of PoS
+PoS (Proof-of-Stake) is a consensus mechanism designed for the upcoming ART Protocol mainnet. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on token staking contributions to assign roles in block validation and creation.
 
-<br/><br/>
-## 1. Art Protocol
-### 1.1 Blockchain Mainnet
-#### 1.1.1 Overview of PoS   
-**PoS(Proof-of-Stake)** is a consensus mechanism used in blockchain networks. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on the ownership of tokens and stake contributions to assign roles in block validation and creation.   
-The core idea behind PoS is that network participants can "stake" their tokens, and based on the amount and duration of their stake, they are granted validator privileges. This mechanism enhances the decentralization and security of the blockchain while achieving significant energy efficiency.
-#### 1.1.2 The Need for PoS   
-- **Energy Efficiency**: PoW-based networks consume massive energy and raise environmental concerns. In contrast, PoS minimizes energy consumption by relying on staking rather than mining.
-- **Scalability**: PoS reduces block generation time and increases transaction throughput, improving network scalability.
-- **Enhanced Security**: An attacker would need to own at least 51% of the staked tokens to control the network, making such an attack prohibitively expensive and impractical.
-#### 1.1.3 ART Protocol's PoS Mechanism   
-The PoS mechanism adopted by ART Protocol aims to balance network stability and participant rewards through a fair and efficient design.   
-1. **Validator Selection**  
-    ART Protocol selects participants who have staked a certain amount of tokens as validators. This process is carried out fairly through a decentralized validation mechanism.
-2. **Block Creation and Validation**  
-    Validators are randomly chosen in specific intervals to generate blocks and validate transactions within the network. This is based on a probabilistic reward system proportional to their stake.
-3. **Rewards and Penalties**   
-    - **Rewards**: Validators earn network tokens as rewards for successfully creating and validating blocks. The reward amount depends on the staked token amount and the level of participation.
-    - **Penalties (Slashing)**: If malicious behavior (e.g., double signing, validation failures) is detected, part or all of the validator’s staked tokens may be slashed or burned as punishment.
-4. **Enhanced Security Mechanism**   
-ART Protocol combines random validator selection and economic incentives to strengthen network security. To compromise the network, an attacker would need to acquire a majority of the staked tokens, making such attempts economically unfeasible.
-#### 1.1.4 Advantages of ART Protocol's PoS
-- **Eco-Friendly**: Unlike PoW, PoS requires no large-scale computations, resulting in near-zero carbon emissions.
-- **Incentivized User Participation**: Anyone holding tokens can contribute to the network by staking and earn rewards.
-- **Economic Efficiency**: The simplified validation and reward processes eliminate resource inefficiencies.
-- **Maintaining Decentralization**: ART Protocol prevents centralization risks through staking participation and random validator selection.
-#### 1.1.5 PoS Conclusion   
-The PoS-based mainnet of ART Protocol is designed to build a sustainable and efficient blockchain network. By combining energy efficiency, security, and scalability, it establishes the foundation for next-generation blockchain technology while ensuring fairness and transparency for all network participants.   
-#### 1.1.6 Asset Protocol   
-Asset protocol "programmed rules for the movement and transaction of tokenized assets" operates on the Web3.0 and trade platform based on smart contracts on the decentralized computing of blockchain.   
+Through PoS, network participants stake their tokens and are granted validator privileges based on their stake. This mechanism is designed to enhance decentralization and network security while achieving high energy efficiency.
 
-![image](https://github.com/user-attachments/assets/e0623843-9b77-4967-8c21-0bdac039903c)
+1.1.2 The Need for PoS
+Energy Efficiency: PoW-based networks consume massive energy and raise environmental concerns. PoS minimizes energy consumption by relying on staking rather than computational mining.
 
-- **DAO protocol**: Rules for the movement of goods and services with measurement of value among specific purpose groups(DAO : Decentralized Autonomous Organization)) in human society. Activities in production, services and consumption of prosuming style. Art Protocol's partner platform linked with DAO protocol.
-  - ***Proof of Health*** : Calculate health index and royalty using food and exercise information
-  - ***Proof of Social*** : Calculate social sensitivity and loyalty using customer reactions, AI detected emotions
-- **Merchandising protocol**: Rules related to the overall activities of prosuming, including production and transportation, storage in intermediate processes, and securing a certain delivery time.
-  - ***Proof of Supply Chain*** : Calculate supply chain index and royalty using the contribution of the supply chain
-- **Exchange protocol**: Rules for exchanging and trading tokenized assets and Artcoin is used as utility on Art Protocol.
-  - ***Proof of Exchange*** : Calculate exchange index and royalty using exchange history
-<br>
+Scalability: PoS reduces block generation time and increases transaction throughput, improving overall network scalability.
 
-### 1.2. Artcoin
-#### 1.2.1 Information
-1. **Token Name** : Artcoin
-2. **Token Symbol** : ART
-3. **Token Type** : Utility token used in Art Protocol, not used for any physical transactions or payment.
-4. **Contract**  :    <https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842>
-5. **Token Total Supply** : 10,000,000,000
-6. **Issuer** : Artcoin foundation, Location unknown
-7. **Operator** : Art Protocol Inc. US
-8. **Operator Address** : 3400 EL CAMINO REAL, 9, SANTA CLARA, CA, USA
-9. **Burn** : planned
-10. **PancakeSwap** : https://pancakeswap.finance/swap?inputCurrency=0xdAC17F958D2ee523a2206206994597C13D831ec7&outputCurrency=0xC33297B036aFbE0Da079B8Eba229a10964a30842&chain=eth&chainOut=base
+Enhanced Security: Compromising a PoS network requires controlling a majority of staked tokens, creating strong economic deterrence against malicious attacks.
 
-    
-#### 1.2.2 Tokenomics
-**Token Distribution**   
-    To support ecosystem growth and provide fair opportunities for various participants, Artcoin’s tokens are distributed as follows:
-    - Ecosystem Growth: 20%   
-        Allocated to expand the Artcoin ecosystem and invest in new features and services.
-    - RWA Merchandising: 20%   
-        Supports RWA-related merchandising and liquidity, promoting the digitalization of artworks and other real-world assets.
-    - Validator & Node: 10%   
-        Tokens reserved to reward validators and node operators, ensuring network decentralization.
-    - Community Access Sale: 10%   
-        Allocated for public sales, giving the Artcoin community members early opportunities to purchase tokens.
-    - Private Sales: 10%   
-        Reserved for initial investors and strategic partnerships through private sales.
-    - Foundation: 10%   
-        Used for the operations of the Artcoin foundation, including project management, legal support, and marketing.
-    - Protocol: 20%   
-        Dedicated to the ongoing development and upgrades of the blockchain protocol.
-#### 1.2.3 Artcoin’s Blockchain Networks
-- **Initial Launch on Ethereum** : Artcoin was initially launched on the Ethereum (ETH) network, a leading platform for smart contracts and decentralized applications (dApps). Ethereum provided a robust foundation with its extensive user base and strong security. However, as the network usage grew, challenges such as slower transaction speeds and higher gas fees emerged.
-- **Migration to Polygon** : To address the issues of high fees and limited scalability, Artcoin transitioned to the Polygon (MATIC) network. Polygon, a Layer 2 solution for Ethereum, enabled faster and more cost-effective transactions. This migration significantly improved the user experience by reducing fees and enhancing the network's overall efficiency.
-- **Final Transition to Base** : To strengthen its presence in the U.S. market and provide an improved user experience, Artcoin moved to the Base network. Base, a Layer 2 solution supported by Coinbase, offers low fees and high scalability. Leveraging Coinbase's extensive user base and reputation, this transition allowed Artcoin to enhance accessibility and adoption within the U.S. market.
-- **Planned Transition to a Proprietary Mainnet** : Artcoin is currently developing its own proprietary blockchain mainnet and plans to migrate once it is ready. The proprietary mainnet will enable Artcoin to achieve technical autonomy and provide users with an optimized transaction environment and enhanced scalability. This transition will mark a significant milestone in achieving full independence and strengthening the Artcoin ecosystem.   
-**Through these network transitions and the development of its proprietary mainnet, Artcoin aims to deliver superior services and experiences to its users while bolstering its competitiveness in the global market.**
-#### 1.2.4 Artcoin's Validator   
-The Artcoin Validator program allows users to stake their coins and earn income from their deposits. This program includes the following terms and features:
-1. **Basic Deposit Requirement** : Users who deposit a minimum of 150,000 Artcoins into the Validator will receive rewards for their staked coins over the course of one year.
-2. **Reward Structure** : 
-    - 4 Artcoins are distributed per hour.
-    - Users can earn 96 Artcoins per day (24 hours).
-    - Over one year (365 days), a total reward of 35,040 Artcoins is distributed.
-3. **Profit Sharing** :
-    - The total rewards are divided in a 7:3 ratio between users and operators.
-    - Users receive 70% of the total rewards, while operators take 30%.
-4. **Partial Staking Support** :
-    - Users who cannot meet the 150,000 Artcoin threshold will still receive proportional rewards based on the amount staked.
-5. **Income Rate Example** :
-    - A user staking 150,000 Artcoins can expect an annual return of approximately 23.36%.
-    - The effective income rate for the user's 70% share is approximately 16.35%.   
-6. **Halving & unlock plan** :
-    - Distribute amount per hour reduced to half, when total distributed amount reach to the half of total amount.
-    - 1st unlock planned in late 2026, % will be released.
-      
-**This program is designed to enhance the Artcoin ecosystem and provide users with stable income opportunities.**
-<br><br>
+1.1.3 ART Protocol's PoS Mechanism
+The PoS mechanism planned for ART Protocol aims to balance network stability and participant incentives through a transparent design:
 
+Validator Selection
 
-### 1.3 Tokenized RWA (Real World Asset)
-#### 1.3.1 The Concept of WEB3 and RWA   
-RWA (Real World Asset) refers to the digitalization of real-world assets, allowing them to be managed and traded on the blockchain. In WEB3, RWA is tokenized, enabling transparent recording and management of ownership, transaction history, and authentication on the blockchain.   
-The tokenization of RWA offers several advantages :
-1. **Transparency** : All transaction histories are recorded on the blockchain, making them tamper-proof.
-2. **Accessibility** : Anyone can access and trade RWA through the blockchain network.
-3. **Liquidity** : Assets with low liquidity in traditional markets can be digitized and traded more widely.
-4. **Security** : Ownership of assets is securely managed through the decentralized ledger of the blockchain.
-   
-#### 1.3.2 ART Protocol’s RWA Authentication and Trading System   
-ART Protocol is transforming the traditional asset custody and trading system through its **NFT-based RWA authentication service**.
-1. **NFT Authentication**
-    - The ART Protocol platform verifies RWAs, such as artworks, and issues NFTs representing these assets.
-    - These NFTs contain ownership and authentication information, making it easy to verify the authenticity and ownership of assets.
-2. **Custody and Trading System**
-    - NFTs are traded on the blockchain, simplifying the transfer of ownership for RWAs.
-    - ART Protocol provides secure asset custody services and improves user experience by automating transactions via smart contracts.
-3. **Scalability**
-    - Currently, the service supports **artworks**, but it will expand to include other real-world assets like **tea** and **gold** in the future.
-    - This expansion aims to support a broader RWA market and strengthen ART Protocol's position in the global market.
-      
-#### 1.3.3 PoR (Proof of Reserve) 
-PoR (Proof of Reserve) is the foundation of trust in RWA tokenization, transforming token promises into verifiable ownership of real-world assets.
+ART Protocol selects participants who meet the staking requirements as validators through a decentralized validation mechanism.
 
-![image](https://github.com/user-attachments/assets/8fbef208-c0c3-4192-a0ce-76787fb941a2)
+Block Creation and Validation
 
-#### 1.3.4 Vault specification
+Validators are selected at specific intervals to generate blocks and validate transactions within the network based on a stake-weighted mechanism.
 
-https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/whitepaper_vault.md
+Rewards and Penalties
 
-    
-#### 1.3.5 Business Model and Features   
-ART Protocol's Tokenized RWA service provides the following business and functional offerings :
-1. **Asset Authentication and Digitalization**
-    - Verifying real-world assets and issuing NFTs to integrate them into the digital ecosystem.
-2. **Decentralized Trading**
-    - Supporting secure and transparent transactions based on blockchain networks.
-3. **Improved Liquidity**
-    - Enhancing liquidity for assets that are challenging to trade in traditional markets.
-4. **Scalable Ecosystem Development**
-    - Starting with artworks, gradually expanding to diverse RWAs to build a sustainable ecosystem for users and businesses.
-<br>
+Rewards: Validators earn network tokens as rewards for successfully creating and validating blocks, proportional to their staked amount and network participation.
 
+Penalties (Slashing): If malicious behavior (e.g., double signing, prolonged downtime) is detected, a portion or all of the validator’s staked tokens may be slashed as a penalty.
 
-### 1.4 Reserved Asset
-#### Asset feature
-- Assets that continue to increase in value
-- Assets that are not tied to a region
-#### Type of Asset to reserve
-- Sustainable digital asset with community backed
-- Real Assets like artwork, ip
-- Financial Assets
-<br>
+Security Mechanism
 
+ART Protocol combines decentralized validator selection and economic incentives to strengthen network security and deter malicious activity.
 
-### 1.5 AI Agent on Blockchain
-#### TelleZon
-- From Seeing the World to Extracting Value from It
-- Tele + Zon
-* Tele: distance, remote connection, the collapse of physical space
-* Zon: real value derived from human existential essence
+1.1.4 Advantages of ART Protocol's PoS
+Eco-Friendly: Requires no large-scale computational mining, significantly reducing energy consumption.
 
-https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-from-it-fb7a84f38781
+Network Participation: Token holders can contribute to network security by staking and participating in validation.
 
-<br>
+Resource Efficiency: Simplified validation processes minimize operational overhead.
 
-#### ERC-8004: Trustless Agents
-- Discover agents and establish trust through reputation and validation
+Decentralization: Mitigates centralization risks through open staking participation and distributed validator selection.
 
-#### Core Components
-- Identity Registry
+1.1.5 Asset Protocol
+The Asset Protocol defines programmed rules for the movement and transaction of tokenized assets, operating on Web3.0 infrastructure via smart contracts.
 
-Registers AI agents as NFTs (ERC-721)
+DAO Protocol: Rules governing the movement of goods, services, and value measurement among purpose-driven Decentralized Autonomous Organizations (DAOs), supporting prosumer-style production and consumption.
 
-Agent = on-chain identity + metadata
+Proof of Health: Calculates health contribution indices and ecosystem royalties using wellness and activity data.
 
-- Reputation Registry
+Proof of Social: Calculates social engagement and community loyalty indices using user interaction metrics.
 
-Stores feedback, scores, and tags
+Merchandising Protocol: Rules covering the lifecycle of physical and digital goods, including production, logistics, intermediate storage, and delivery verification.
 
-Enables accumulated and reusable reputation
+Proof of Supply Chain: Calculates supply chain contribution indices and royalties based on verified logistics milestones.
 
-- Validation Registry
-  
-Verifies agent task results
+Exchange Protocol: Rules governing the exchange and trading of tokenized assets utilizing Artcoin (ART) as the ecosystem utility token.
 
-Methods: validators, zk proofs, TEE, etc.
+Proof of Exchange: Calculates exchange contribution indices and royalties based on protocol trading activity.
 
-Records results as scores
-  
-https://eips.ethereum.org/EIPS/eip-8004
+1.2. Artcoin
+1.2.1 Token Information
+Token Name: Artcoin
 
-<br>
+Token Symbol: ART
 
- 
-## 2. Web3.0
+Token Type: Utility token used within the ART Protocol ecosystem (not intended as legal tender or direct fiat payment).
 
-Understanding and Response to Change :
+Contract Address (Base): 0xC33297B036aFbE0Da079B8Eba229a10964a30842 (BaseScan)
 
-https://drive.google.com/file/d/17E9FkAcnzJ0qJl9MxdZ1JxzO4fPeQGeA/view
+Total Supply: 10,000,000,000 ART
 
-### Live together in groups.  Web3.0
-- DAO : Value sharing organization
-- Meta world : Connected activity
-- Tokenomics : DeFi, Asset Tokenization
+Issuer: Artcoin Foundation
 
-![image](https://github.com/user-attachments/assets/32b7c07d-e196-4d5a-a80d-0bf77489c441)
+Operator: Art Protocol Inc. (US)
 
-### Web 3.0 Helps
-RWA tokenization in Web3.0 helps solve the polarization problem.
-  
-![image](https://github.com/user-attachments/assets/4509d0c8-4030-4e7a-91b0-670ea99a6692)
+Operator Address: 3400 El Camino Real, Suite 9, Santa Clara, CA, USA
 
-<br/><br/>
-<br/><br/>
+Token Burn: Planned according to ecosystem governance and protocol milestones.
 
-<br/><br/>
+1.2.2 Tokenomics
+Token Distribution
 
-## 3. Contact
+To support long-term ecosystem growth and balanced network participation, Artcoin’s total supply is allocated as follows:
 
+Ecosystem Growth (20%): Allocated to expand the ART Protocol ecosystem and develop new services.
+
+RWA Merchandising (20%): Supports Real-World Asset (RWA) onboarding, liquidity, and asset digitalization.
+
+Protocol Development (20%): Dedicated to ongoing core protocol engineering and upgrades.
+
+Validator & Node Rewards (10%): Reserved to incentivize network validators and node operators.
+
+Community Access Sale (10%): Allocated for public community distribution.
+
+Private Sales (10%): Reserved for early strategic partners and backers.
+
+Foundation Operations (10%): Used for foundation governance, legal compliance, operations, and marketing.
+
+1.2.3 Blockchain Network Roadmap
+Initial Launch on Ethereum: Artcoin initially launched on the Ethereum (ETH) network to leverage its established smart contract infrastructure and security.
+
+Migration to Polygon: To mitigate high gas fees and improve transaction throughput, Artcoin transitioned to the Polygon network.
+
+Transition to Base: To optimize scalability, reduce transaction costs, and strengthen accessibility within the North American market, Artcoin migrated to Base, an Ethereum Layer 2 network.
+
+Planned Transition to Proprietary Mainnet: ART Protocol is developing a proprietary PoS blockchain mainnet to achieve full technical autonomy and an optimized environment for RWA and AI agent transactions.
+
+1.2.4 Validator & Staking Program
+The Artcoin Validator program allows token holders to stake ART to support network operations and receive protocol incentives:
+
+Validator Node Requirement: Participants who stake a minimum of 150,000 ART can operate or delegate to a validator node.
+
+Delegated Staking Support: Holders with fewer than 150,000 ART can participate via delegated staking and receive proportional rewards based on their staked share.
+
+Emission & Distribution Structure:
+
+Network block rewards are emitted dynamically based on protocol parameters (baseline emission rate of 4 ART per hour, or 96 ART per 24-hour cycle per active pool).
+
+Rewards are allocated at a 70:30 ratio between stakers/delegators (70%) and node operators (30%) to cover infrastructure maintenance.
+
+Note: Actual reward rates fluctuate dynamically depending on total network staked volume and protocol governance.
+
+Halving & Vesting Schedule:
+
+Hourly emission rates undergo a halving event once cumulative distributed rewards reach half of the allocated reward pool.
+
+Initial token unlocks are scheduled to begin in late 2026 in accordance with vesting milestones.
+
+1.3 Tokenized RWA (Real-World Assets)
+1.3.1 The Concept of Web3 and RWA
+RWA (Real-World Asset) tokenization refers to representing ownership or rights to physical and traditional assets on a blockchain. This enables transparent, tamper-proof tracking of provenance, ownership history, and authentication.
+
+Transparency: Ownership and transaction histories are recorded on-chain.
+
+Accessibility: Enables fractionalized and global access to traditionally illiquid asset classes.
+
+Liquidity: Facilitates secondary market trading for physical assets.
+
+Security: Cryptographic verification protects ownership records against unauthorized alteration.
+
+1.3.2 ART Protocol’s RWA Authentication and Trading System
+ART Protocol bridges physical custody and digital trading through an NFT-based RWA authentication framework:
+
+NFT Authentication: Verified physical assets (such as fine art) are paired with on-chain NFTs containing provenance and authentication metadata.
+
+Custody and Trading: Physical assets are held in secure custody while their corresponding NFTs are traded via smart contracts, streamlining ownership transfer.
+
+Asset Expansion: Initially focused on artworks, the protocol is designed to expand into commodities and collectibles such as specialty tea and gold.
+
+1.3.3 Proof of Reserve (PoR)
+Proof of Reserve (PoR) provides transparent verification that tokenized assets on-chain are fully backed by physical assets held in custody.
+
+1.3.4 Technical Documentation
+Vault Specification: Whitepaper Vault Specification
+
+ERC-4626 Vault Standard: Vault (ERC-4626) Documentation
+
+Executive Summary: Whitepaper Brief
+
+1.3.5 Business Model and Core Features
+Asset Authentication and Digitalization: Verifying physical assets and issuing standardized on-chain certificates.
+
+Decentralized Marketplace: Enabling peer-to-peer trading of authenticated RWA tokens.
+
+Enhanced Liquidity: Unlocking market liquidity for high-value physical assets.
+
+Scalable RWA Infrastructure: Expanding across multiple asset verticals for both institutional and retail participants.
+
+1.4 Ecosystem Reserve Assets
+Target Asset Criteria
+Assets demonstrating long-term value appreciation potential.
+
+Globally recognized assets not restricted to a single regional market.
+
+Reserve Asset Categories
+Community-backed digital assets.
+
+Tangible real-world assets (fine art, intellectual property).
+
+Liquid financial instruments.
+
+1.5 AI Agents on Blockchain
+TeleZon
+From Seeing the World to Extracting Value from It
+
+Tele: Distance, remote connectivity, and the reduction of physical boundaries.
+
+Zon: Tangible value derived from human activity and real-world utility.
+
+ERC-8004: Trustless Agents
+ART Protocol aligns with the ERC-8004 standard to enable AI agent discovery and verifiable trust through on-chain reputation and validation registries (EIP-8004 Specification):
+
+Identity Registry: Registers AI agents as ERC-721 NFTs, binding each agent to a verifiable on-chain identity and metadata.
+
+Reputation Registry: Stores historical feedback, performance scores, and tags to establish portable, cumulative agent reputation.
+
+Validation Registry: Verifies agent task execution using cryptographic methods (validators, zero-knowledge proofs, TEEs) and records validation scores on-chain.
+
+2. Web3.0 Vision
+Collaborative Web3.0 Ecosystem
+DAO: Value-sharing decentralized organizations.
+
+Meta World: Interconnected digital and physical environments.
+
+Tokenomics: Decentralized finance (DeFi) and RWA tokenization infrastructure.
+
+Addressing Economic Polarization via Web3.0
+By lowering barriers to entry for high-value assets through RWA tokenization, Web3.0 infrastructure promotes broader access to wealth creation and transparent value distribution.
+
+3. Official Channels
 Website: https://www.artprotocol.net
 
-Email: artcoin64@gmail.com
+GitHub: https://github.com/ART-Protocol-Organization
 
-
-<br/><br/>
-
-## 4. Directional articles
-[Crypto-Native Financial Loop: From Creation to Yield to Real-World Spending](https://medium.com/@bipasori/crypto-native-financial-loop-from-creation-to-yield-to-real-world-spending-21853819bed9)
-
-[Universal Basic Yield (UBY)](https://medium.com/@bipasori/universal-basic-yield-uby-a-new-model-for-inclusive-income-f6584f2d567d)
-
-[TeleZon(TZ) : From Seeing the World to Extracting Value from It](https://medium.com/@bipasori/telezon-from-seeing-the-world-to-extracting-value-from-it-fb7a84f38781)
-
-<br/><br/><br/>
-
-Vault(ERC-4626): https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/vault(ERC-4626).md
-
-Business plan :  https://drive.google.com/file/d/1q4TagKbsSZU7RIgvE7Sa_uqRR6nOentu/view
-
-Summary: https://github.com/ART-Protocol-Organization/docs/blob/main/whitepaper/whitepaper_brief.md
-
-
+Disclaimer: This whitepaper is for informational purposes only and does not constitute financial, legal, or investment advice, nor an offer to sell or a solicitation of an offer to buy any securities or financial instruments.
