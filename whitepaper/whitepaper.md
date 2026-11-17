@@ -226,7 +226,7 @@ Addressing Economic Polarization via Web3.0
 By lowering barriers to entry for high-value assets through RWA tokenization, Web3.0 infrastructure promotes broader access to wealth creation and transparent value distribution.
 
 3. Official Channels
-4. 
+
 Website: https://www.artprotocol.net
 
 Disclaimer: This whitepaper is for informational purposes only and does not constitute financial, legal, or investment advice, nor an offer to sell or a solicitation of an offer to buy any securities or financial instruments.
