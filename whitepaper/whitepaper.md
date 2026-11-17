@@ -1,6 +1,9 @@
 ART Protocol Whitepaper
+
 1. Art Protocol
+   
 1.1 Blockchain Mainnet Architecture (Planned)
+   
 1.1.1 Overview of PoS
 PoS (Proof-of-Stake) is a consensus mechanism designed for the upcoming ART Protocol mainnet. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on token staking contributions to assign roles in block validation and creation.
 
@@ -61,7 +64,9 @@ Exchange Protocol: Rules governing the exchange and trading of tokenized assets 
 Proof of Exchange: Calculates exchange contribution indices and royalties based on protocol trading activity.
 
 1.2. Artcoin
+
 1.2.1 Token Information
+
 Token Name: Artcoin
 
 Token Symbol: ART
