@@ -108,26 +108,28 @@ Transition to Base: To optimize scalability, reduce transaction costs, and stren
 
 Planned Transition to Proprietary Mainnet: ART Protocol is developing a proprietary PoS blockchain mainnet to achieve full technical autonomy and an optimized environment for RWA and AI agent transactions.
 
-1.2.4 Validator & Staking Program
-The Artcoin Validator program allows token holders to stake ART to support network operations and receive protocol incentives:
+1.2.4 Artcoin's Validator & Staking Program
+The Artcoin Validator program allows token holders to stake ART to support network security and operations while participating in protocol governance and rewards:
 
-Validator Node Requirement: Participants who stake a minimum of 150,000 ART can operate or delegate to a validator node.
+Validator Node Requirement: Participants who meet the protocol's designated staking requirements can operate or delegate to a validator node, contributing directly to network consensus.
 
-Delegated Staking Support: Holders with fewer than 150,000 ART can participate via delegated staking and receive proportional rewards based on their staked share.
+Delegated Staking Support: Token holders who do not meet full node operator thresholds can participate through delegated staking, receiving proportional rewards based on their contributed stake.
 
-Emission & Distribution Structure:
+Reward and Fee Structure:
 
-Network block rewards are emitted dynamically based on protocol parameters (baseline emission rate of 4 ART per hour, or 96 ART per 24-hour cycle per active pool).
+Validators and delegators earn protocol-emitted tokens as rewards for successfully validating network blocks and maintaining uptime.
 
-Rewards are allocated at a 70:30 ratio between stakers/delegators (70%) and node operators (30%) to cover infrastructure maintenance.
+Total rewards are distributed according to a predetermined protocol ratio between stakers/delegators and node operators to cover operational and infrastructure costs.
 
-Note: Actual reward rates fluctuate dynamically depending on total network staked volume and protocol governance.
+Slashing and Security Enforcement:
 
-Halving & Vesting Schedule:
+To ensure network integrity, malicious behavior (such as double signing or prolonged downtime) triggers automatic penalties, resulting in the slashing of a portion or all of the staked tokens.
 
-Hourly emission rates undergo a halving event once cumulative distributed rewards reach half of the allocated reward pool.
+Emission and Vesting Roadmap:
 
-Initial token unlocks are scheduled to begin in late 2026 in accordance with vesting milestones.
+Network token emission rates adjust dynamically according to protocol governance milestones and cumulative distribution thresholds.
+
+Token unlock schedules are aligned with predetermined protocol phases and ecosystem milestones.
 
 1.3 Tokenized RWA (Real-World Assets)
 1.3.1 The Concept of Web3 and RWA
