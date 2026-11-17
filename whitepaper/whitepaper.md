@@ -1,12 +1,6 @@
 # ART Protocol Whitepaper
 <br/><br/>
 
-## Join Our Community
-We'd love to hear from you. Please consider joining us on 
-[Telegram](https://t.me/artcoin_group/1) 
-. You can also contact us at artcoin64@gmail.com
-
-
 <br/><br/>
 ## 1. Art Protocol
 ### 1.1 Blockchain Mainnet
