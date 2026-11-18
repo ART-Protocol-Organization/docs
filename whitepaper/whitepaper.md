@@ -27,7 +27,8 @@ Artcoin (ART) is the single utility token that runs these services, in the same 
 | Type | Internal utility token (ERC-20) |
 | Network | Base (Ethereum Layer 2) |
 | Contract | [0xC33297B036aFbE0Da079B8Eba229a10964a30842](https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842) |
-| Total supply | 10,000,000,000 ART |
+| Total supply | 1,000,000,000 ART |
+| Supply change | Reduced from 10,000,000,000 ART by burning 9,000,000,000 ART on-chain (burn transaction: to be published) |
 | Issuer | Artcoin Foundation |
 | Operator | Art Protocol Inc., 3400 El Camino Real, Suite 9, Santa Clara, CA, USA |
 
@@ -52,17 +53,18 @@ New uses are added only for services that ART Protocol itself operates.
 
 ## 3. Allocation
 
-The total supply is reserved for the ecosystem as follows. These are reserves, not commitments to sell.
+The total supply of 1,000,000,000 ART is reserved for the ecosystem as follows. These are reserves, not commitments to sell.
 
-| Allocation | Share | Purpose |
-|---|---|---|
-| Ecosystem Growth | 20% | Building new services and features |
-| RWA Merchandising | 20% | Onboarding and certifying artworks and other RWA collections |
-| Protocol Development | 20% | Core protocol engineering and upgrades |
-| Network Operations | 10% | Running nodes and infrastructure for the planned mainnet |
-| Community | 10% | Community programs and usage rewards (section 2.2) |
-| Strategic Partners | 10% | Partners that build or integrate ART Protocol services |
-| Foundation | 10% | Operations, legal and compliance, and security |
+| Allocation | Share | Amount (ART) | Purpose |
+|---|---|---|---|
+| Ecosystem Growth | 20% | 200,000,000 | Building new services and features |
+| RWA Merchandising | 20% | 200,000,000 | Onboarding and certifying artworks and other RWA collections |
+| Protocol Development | 20% | 200,000,000 | Core protocol engineering and upgrades |
+| Network Operations | 10% | 100,000,000 | Running nodes and infrastructure for the planned mainnet |
+| Community | 10% | 100,000,000 | Community programs and usage rewards (section 2.2) |
+| Strategic Partners | 10% | 100,000,000 | Partners that build or integrate ART Protocol services |
+| Foundation | 10% | 100,000,000 | Operations, legal and compliance, and security |
+| **Total** | **100%** | **1,000,000,000** | |
 
 Lock-up and release schedules for each allocation are published before any release.
 
