@@ -10,7 +10,7 @@
 
 ART Protocol is a Web3.0 platform for artwork and other real-world assets (RWA). It brings together:
 
-- **Art&Asset Market**: an on-chain market for digital assets linked to certified collections (currently on BNB Smart Chain Testnet).
+- **Art&Asset Market**: an on-chain market for digital assets linked to certified collections (currently on BNB Smart Chain Testnet). Fees are paid in ART through the market's internal wallet, which connects to the Base network where ART is issued.
 - **ART INDEX**: benchmark data for the art market (ART100, ENVISAGER INDEX), provided for information only.
 - **RWA collections**: certified artwork collections, starting with ENVISAGER MUSEUM and ENVISAGER CLUB.
 - **AI agents**: on-chain agents (TeleZon, AI Village) that help users with tasks inside the platform.
@@ -27,9 +27,11 @@ Artcoin (ART) is the single utility token that runs these services, in the same 
 | Type | Internal utility token (ERC-20) |
 | Network | Base (Ethereum Layer 2) |
 | Contract | [0xC33297B036aFbE0Da079B8Eba229a10964a30842](https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842) |
-| Total supply | 1,000,000,000 ART |
-| Supply change | Reduced from 10,000,000,000 ART by burning 9,000,000,000 ART on-chain (burn transaction: to be published) |
+| Previous contracts | Ethereum and Polygon (addresses and status: to be published) |
+| Total supply | 10,000,000,000 ART (current) → 1,000,000,000 ART after the planned burn |
+| Planned burn | 9,000,000,000 ART to be burned on-chain (burn transaction will be published when executed) |
 | Issuer | Artcoin Foundation |
+| Foundation location | Unknown |
 | Operator | Art Protocol Inc., 3400 El Camino Real, Suite 9, Santa Clara, CA, USA |
 
 ### 2.2 What ART is used for
@@ -38,7 +40,7 @@ ART works only inside ART Protocol services:
 
 1. **Service fees**: paying platform fees, such as market, listing, and data-service fees.
 2. **Fee discounts**: paying fees in ART instead of other assets can lower the fee.
-3. **Feature access**: unlocking platform features, such as advanced ART INDEX data and partner tools.
+3. **Feature access**: unlocking platform features, such as advanced ART INDEX data and partner tools offered within ART Protocol.
 4. **AI agent tasks**: paying for tasks performed by ART Protocol AI agents.
 5. **Community programs**: rewards for platform activity, such as testing, feedback, and content.
 
@@ -53,7 +55,7 @@ New uses are added only for services that ART Protocol itself operates.
 
 ## 3. Allocation
 
-The total supply of 1,000,000,000 ART is reserved for the ecosystem as follows. These are reserves, not commitments to sell.
+The total supply of 1,000,000,000 ART after the planned burn (section 2.1) is reserved for the ecosystem as follows. These are reserves, not commitments to sell.
 
 | Allocation | Share | Amount (ART) | Purpose |
 |---|---|---|---|
@@ -89,7 +91,7 @@ The planned mainnet is designed for platform transactions, RWA records, and AI a
 
 ## 6. AI agents
 
-ART Protocol follows **ERC-8004 (Trustless Agents)** so that AI agents can be identified and trusted on-chain:
+ART Protocol follows **ERC-8004 (Trustless Agents)**, currently a Draft standard, so that AI agents can be identified and trusted on-chain:
 
 - **Identity Registry**: each agent has an on-chain identity (ERC-721) with metadata.
 - **Reputation Registry**: feedback and scores build a reusable agent reputation.
@@ -106,6 +108,8 @@ Certified artworks are linked to on-chain digital assets that record authenticat
 - Website: https://www.artprotocol.net
 - Terms of Use: https://www.artprotocol.net/terms/
 - Regulatory overview: https://www.artprotocol.net/regulations/
+- Contact: artcoin64@gmail.com
+- Address: Art Protocol Inc., 3400 El Camino Real, Suite 9, Santa Clara, CA, USA
 
 ## 9. Disclaimer
 
