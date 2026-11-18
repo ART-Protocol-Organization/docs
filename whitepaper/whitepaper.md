@@ -55,20 +55,26 @@ New uses are added only for services that ART Protocol itself operates.
 
 ## 3. Allocation
 
-The total supply of 1,000,000,000 ART after the planned burn (section 2.1) is reserved for the ecosystem as follows. These are reserves, not commitments to sell.
+The total supply of 1,000,000,000 ART after the planned burn (section 2.1) is reserved **for internal use within ART Protocol services only**. Each allocation is spent only on the platform uses in section 2.2.
 
-| Allocation | Share | Amount (ART) | Purpose |
+| Allocation | Share | Amount (ART) | Internal use |
 |---|---|---|---|
-| Ecosystem Growth | 20% | 200,000,000 | Building new services and features |
-| RWA Merchandising | 20% | 200,000,000 | Onboarding and certifying artworks and other RWA collections |
-| Protocol Development | 20% | 200,000,000 | Core protocol engineering and upgrades |
-| Network Operations | 10% | 100,000,000 | Running nodes and infrastructure for the planned mainnet |
-| Community | 10% | 100,000,000 | Community programs and usage rewards (section 2.2) |
-| Strategic Partners | 10% | 100,000,000 | Partners that build or integrate ART Protocol services |
-| Foundation | 10% | 100,000,000 | Operations, legal and compliance, and security |
+| Ecosystem Growth | 20% | 200,000,000 | Paying fees and access for new ART Protocol services and features |
+| RWA Merchandising | 20% | 200,000,000 | Paying platform fees to onboard and certify artworks and other RWA collections |
+| Protocol Development | 20% | 200,000,000 | Testing and running platform features during protocol upgrades |
+| Network Operations | 10% | 100,000,000 | Paying network and transaction costs for platform services and the planned mainnet |
+| Community | 10% | 100,000,000 | Rewards for platform activity, such as testing, feedback, and content (section 2.2) |
+| Strategic Partners | 10% | 100,000,000 | Access for partners that build or integrate services operated within ART Protocol |
+| Foundation | 10% | 100,000,000 | Platform operations, compliance, and security |
 | **Total** | **100%** | **1,000,000,000** | |
 
-Lock-up and release schedules for each allocation are published before any release.
+**Internal-use rules**
+
+- No allocation is sold, offered to investors, or distributed for trading.
+- No allocation is used for exchange listings, market making, or price support.
+- ART given to users or partners can be used only inside ART Protocol services.
+- Unused ART stays in reserve. ART spent on platform services may be burned (section 4).
+- Before ART moves from any allocation into platform use, the schedule for that move is published.
 
 ## 4. Burn
 
