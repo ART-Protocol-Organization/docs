@@ -1,232 +1,110 @@
-ART Protocol Whitepaper
+# ART Protocol Whitepaper
 
-1. Art Protocol
-   
-1.1 Blockchain Mainnet Architecture (Planned)
-   
-1.1.1 Overview of PoS
-PoS (Proof-of-Stake) is a consensus mechanism designed for the upcoming ART Protocol mainnet. Unlike the traditional Proof-of-Work (PoW) approach, PoS relies on token staking contributions to assign roles in block validation and creation.
+*Version 2.0 · November 2026*
 
-Through PoS, network participants stake their tokens and are granted validator privileges based on their stake. This mechanism is designed to enhance decentralization and network security while achieving high energy efficiency.
+> **Summary.** Artcoin (ART) is the internal utility token of ART Protocol. It is used to access and pay for services inside the ART Protocol platform. It is not an investment, does not represent any ownership, profit, or claim, and is not designed for trading outside the platform.
 
-1.1.2 The Need for PoS
-Energy Efficiency: PoW-based networks consume massive energy and raise environmental concerns. PoS minimizes energy consumption by relying on staking rather than computational mining.
+---
 
-Scalability: PoS reduces block generation time and increases transaction throughput, improving overall network scalability.
+## 1. Overview
 
-Enhanced Security: Compromising a PoS network requires controlling a majority of staked tokens, creating strong economic deterrence against malicious attacks.
+ART Protocol is a Web3.0 platform for artwork and other real-world assets (RWA). It brings together:
 
-1.1.3 ART Protocol's PoS Mechanism
-The PoS mechanism planned for ART Protocol aims to balance network stability and participant incentives through a transparent design:
+- **Art&Asset Market**: an on-chain market for digital assets linked to certified collections (currently on BNB Smart Chain Testnet).
+- **ART INDEX**: benchmark data for the art market (ART100, ENVISAGER INDEX), provided for information only.
+- **RWA collections**: certified artwork collections, starting with ENVISAGER MUSEUM and ENVISAGER CLUB.
+- **AI agents**: on-chain agents (TeleZon, AI Village) that help users with tasks inside the platform.
 
-Validator Selection
+Artcoin (ART) is the single utility token that runs these services, in the same way a platform token is used to pay fees inside its own platform.
 
-ART Protocol selects participants who meet the staking requirements as validators through a decentralized validation mechanism.
+## 2. Artcoin (ART)
 
-Block Creation and Validation
+### 2.1 Token information
 
-Validators are selected at specific intervals to generate blocks and validate transactions within the network based on a stake-weighted mechanism.
+| Item | Detail |
+|---|---|
+| Name / Symbol | Artcoin / ART |
+| Type | Internal utility token (ERC-20) |
+| Network | Base (Ethereum Layer 2) |
+| Contract | [0xC33297B036aFbE0Da079B8Eba229a10964a30842](https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842) |
+| Total supply | 10,000,000,000 ART |
+| Issuer | Artcoin Foundation |
+| Operator | Art Protocol Inc., 3400 El Camino Real, Suite 9, Santa Clara, CA, USA |
 
-Rewards and Penalties
+### 2.2 What ART is used for
 
-Rewards: Validators earn network tokens as rewards for successfully creating and validating blocks, proportional to their staked amount and network participation.
+ART works only inside ART Protocol services:
 
-Penalties (Slashing): If malicious behavior (e.g., double signing, prolonged downtime) is detected, a portion or all of the validator’s staked tokens may be slashed as a penalty.
+1. **Service fees**: paying platform fees, such as market, listing, and data-service fees.
+2. **Fee discounts**: paying fees in ART instead of other assets can lower the fee.
+3. **Feature access**: unlocking platform features, such as advanced ART INDEX data and partner tools.
+4. **AI agent tasks**: paying for tasks performed by ART Protocol AI agents.
+5. **Community programs**: rewards for platform activity, such as testing, feedback, and content.
 
-Security Mechanism
+New uses are added only for services that ART Protocol itself operates.
 
-ART Protocol combines decentralized validator selection and economic incentives to strengthen network security and deter malicious activity.
+### 2.3 What ART is not
 
-1.1.4 Advantages of ART Protocol's PoS
-Eco-Friendly: Requires no large-scale computational mining, significantly reducing energy consumption.
+- ART is **not** equity, debt, a profit share, a dividend, or interest, and gives no claim on ART Protocol, the Artcoin Foundation, or any asset.
+- ART **cannot** be redeemed for money, artwork, or any physical asset.
+- ART does **not** earn yield or rewards for simply holding it.
+- ART Protocol does **not** sell ART as an investment, promote its price, or operate exchange listings or market making for ART.
 
-Network Participation: Token holders can contribute to network security by staking and participating in validation.
+## 3. Allocation
 
-Resource Efficiency: Simplified validation processes minimize operational overhead.
+The total supply is reserved for the ecosystem as follows. These are reserves, not commitments to sell.
 
-Decentralization: Mitigates centralization risks through open staking participation and distributed validator selection.
+| Allocation | Share | Purpose |
+|---|---|---|
+| Ecosystem Growth | 20% | Building new services and features |
+| RWA Merchandising | 20% | Onboarding and certifying artworks and other RWA collections |
+| Protocol Development | 20% | Core protocol engineering and upgrades |
+| Network Operations | 10% | Running nodes and infrastructure for the planned mainnet |
+| Community | 10% | Community programs and usage rewards (section 2.2) |
+| Strategic Partners | 10% | Partners that build or integrate ART Protocol services |
+| Foundation | 10% | Operations, legal and compliance, and security |
 
-1.1.5 Asset Protocol
-The Asset Protocol defines programmed rules for the movement and transaction of tokenized assets, operating on Web3.0 infrastructure via smart contracts.
+Lock-up and release schedules for each allocation are published before any release.
 
-DAO Protocol: Rules governing the movement of goods, services, and value measurement among purpose-driven Decentralized Autonomous Organizations (DAOs), supporting prosumer-style production and consumption.
+## 4. Burn
 
-Proof of Health: Calculates health contribution indices and ecosystem royalties using wellness and activity data.
+ART spent on platform services (section 2.2) may be burned, which permanently removes it from the total supply.
 
-Proof of Social: Calculates social engagement and community loyalty indices using user interaction metrics.
+- Burns are based on **service usage only**, not on company revenue or profit.
+- Each burn is executed on-chain and announced with the amount and the transaction.
+- Burns are an operating policy for the platform, not a promise of any change in value.
 
-Merchandising Protocol: Rules covering the lifecycle of physical and digital goods, including production, logistics, intermediate storage, and delivery verification.
+## 5. Network
 
-Proof of Supply Chain: Calculates supply chain contribution indices and royalties based on verified logistics milestones.
+| Stage | Network | Status |
+|---|---|---|
+| 1 | Ethereum | Initial launch |
+| 2 | Polygon | Lower fees |
+| 3 | Base (Ethereum Layer 2) | **Current** |
+| 4 | ART Protocol Mainnet (Proof-of-Stake) | Planned |
 
-Exchange Protocol: Rules governing the exchange and trading of tokenized assets utilizing Artcoin (ART) as the ecosystem utility token.
+The planned mainnet is designed for platform transactions, RWA records, and AI agent activity. Its design, including validator requirements, is under development and will be published before launch. Validator and staking programs are **not offered** at this time.
 
-Proof of Exchange: Calculates exchange contribution indices and royalties based on protocol trading activity.
+## 6. AI agents
 
-1.2. Artcoin
+ART Protocol follows **ERC-8004 (Trustless Agents)** so that AI agents can be identified and trusted on-chain:
 
-1.2.1 Token Information
+- **Identity Registry**: each agent has an on-chain identity (ERC-721) with metadata.
+- **Reputation Registry**: feedback and scores build a reusable agent reputation.
+- **Validation Registry**: task results are verified (validators, zero-knowledge proofs, TEEs) and recorded.
 
-Token Name: Artcoin
+Users pay for agent tasks in ART (section 2.2).
 
-Token Symbol: ART
+## 7. RWA records
 
-Token Type: Utility token used within the ART Protocol ecosystem (not intended as legal tender or direct fiat payment).
+Certified artworks are linked to on-chain digital assets that record authentication, provenance, and transfer history. The rights of each holder are only those set out in that collection's documents. A digital asset does not by itself give legal title to, or a right to redeem, the physical work. Any collection that gives fractional, pooled, or profit-sharing interests is offered only in compliance with applicable securities laws.
 
-Contract Address (Base): 0xC33297B036aFbE0Da079B8Eba229a10964a30842 (BaseScan)
+## 8. Official channels
 
-Total Supply: 10,000,000,000 ART
+- Website: https://www.artprotocol.net
+- Terms of Use: https://www.artprotocol.net/terms/
+- Regulatory overview: https://www.artprotocol.net/regulations/
 
-Issuer: Artcoin Foundation
+## 9. Disclaimer
 
-Operator: Art Protocol Inc. (US)
-
-Operator Address: 3400 El Camino Real, Suite 9, Santa Clara, CA, USA
-
-Token Burn: Planned according to ecosystem governance and protocol milestones.
-
-1.2.2 Tokenomics
-Token Distribution
-
-To support long-term ecosystem growth and balanced network participation, Artcoin’s total supply is allocated as follows:
-
-Ecosystem Growth (20%): Allocated to expand the ART Protocol ecosystem and develop new services.
-
-RWA Merchandising (20%): Supports Real-World Asset (RWA) onboarding, liquidity, and asset digitalization.
-
-Protocol Development (20%): Dedicated to ongoing core protocol engineering and upgrades.
-
-Validator & Node Rewards (10%): Reserved to incentivize network validators and node operators.
-
-Community Access Sale (10%): Allocated for public community distribution.
-
-Private Sales (10%): Reserved for early strategic partners and backers.
-
-Foundation Operations (10%): Used for foundation governance, legal compliance, operations, and marketing.
-
-1.2.3 Blockchain Network Roadmap
-Initial Launch on Ethereum: Artcoin initially launched on the Ethereum (ETH) network to leverage its established smart contract infrastructure and security.
-
-Migration to Polygon: To mitigate high gas fees and improve transaction throughput, Artcoin transitioned to the Polygon network.
-
-Transition to Base: To optimize scalability, reduce transaction costs, and strengthen accessibility within the North American market, Artcoin migrated to Base, an Ethereum Layer 2 network.
-
-Planned Transition to Proprietary Mainnet: ART Protocol is developing a proprietary PoS blockchain mainnet to achieve full technical autonomy and an optimized environment for RWA and AI agent transactions.
-
-1.2.4 Artcoin's Validator & Staking Program
-The Artcoin Validator program allows token holders to stake ART to support network security and operations while participating in protocol governance and rewards:
-
-Validator Node Requirement: Participants who meet the protocol's designated staking requirements can operate or delegate to a validator node, contributing directly to network consensus.
-
-Delegated Staking Support: Token holders who do not meet full node operator thresholds can participate through delegated staking, receiving proportional rewards based on their contributed stake.
-
-Reward and Fee Structure:
-
-Validators and delegators earn protocol-emitted tokens as rewards for successfully validating network blocks and maintaining uptime.
-
-Total rewards are distributed according to a predetermined protocol ratio between stakers/delegators and node operators to cover operational and infrastructure costs.
-
-Slashing and Security Enforcement:
-
-To ensure network integrity, malicious behavior (such as double signing or prolonged downtime) triggers automatic penalties, resulting in the slashing of a portion or all of the staked tokens.
-
-Emission and Vesting Roadmap:
-
-Network token emission rates adjust dynamically according to protocol governance milestones and cumulative distribution thresholds.
-
-Token unlock schedules are aligned with predetermined protocol phases and ecosystem milestones.
-
-1.3 Tokenized RWA (Real-World Assets)
-
-1.3.1 The Concept of Web3 and RWA
-
-RWA (Real-World Asset) tokenization refers to representing ownership or rights to physical and traditional assets on a blockchain. This enables transparent, tamper-proof tracking of provenance, ownership history, and authentication.
-
-Transparency: Ownership and transaction histories are recorded on-chain.
-
-Accessibility: Enables fractionalized and global access to traditionally illiquid asset classes.
-
-Liquidity: Facilitates secondary market trading for physical assets.
-
-Security: Cryptographic verification protects ownership records against unauthorized alteration.
-
-1.3.2 ART Protocol’s RWA Authentication and Trading System
-ART Protocol bridges physical custody and digital trading through an NFT-based RWA authentication framework:
-
-NFT Authentication: Verified physical assets (such as fine art) are paired with on-chain NFTs containing provenance and authentication metadata.
-
-Custody and Trading: Physical assets are held in secure custody while their corresponding NFTs are traded via smart contracts, streamlining ownership transfer.
-
-Asset Expansion: Initially focused on artworks, the protocol is designed to expand into commodities and collectibles such as specialty tea and gold.
-
-1.3.3 Proof of Reserve (PoR)
-
-Proof of Reserve (PoR) provides transparent verification that tokenized assets on-chain are fully backed by physical assets held in custody.
-
-1.3.4 Technical Documentation
-
-
-Vault Specification: Whitepaper Vault Specification
-
-ERC-4626 Vault Standard: Vault (ERC-4626) Documentation
-
-Executive Summary: Whitepaper Brief
-
-1.3.5 Business Model and Core Features
-
-Asset Authentication and Digitalization: Verifying physical assets and issuing standardized on-chain certificates.
-
-Decentralized Marketplace: Enabling peer-to-peer trading of authenticated RWA tokens.
-
-Enhanced Liquidity: Unlocking market liquidity for high-value physical assets.
-
-Scalable RWA Infrastructure: Expanding across multiple asset verticals for both institutional and retail participants.
-
-1.4 Ecosystem Reserve Assets
-Target Asset Criteria
-Assets demonstrating long-term value appreciation potential.
-
-Globally recognized assets not restricted to a single regional market.
-
-Reserve Asset Categories
-Community-backed digital assets.
-
-Tangible real-world assets (fine art, intellectual property).
-
-Liquid financial instruments.
-
-1.5 AI Agents on Blockchain
-
-TeleZon
-From Seeing the World to Extracting Value from It
-
-Tele: Distance, remote connectivity, and the reduction of physical boundaries.
-
-Zon: Tangible value derived from human activity and real-world utility.
-
-ERC-8004: Trustless Agents
-ART Protocol aligns with the ERC-8004 standard to enable AI agent discovery and verifiable trust through on-chain reputation and validation registries (EIP-8004 Specification):
-
-Identity Registry: Registers AI agents as ERC-721 NFTs, binding each agent to a verifiable on-chain identity and metadata.
-
-Reputation Registry: Stores historical feedback, performance scores, and tags to establish portable, cumulative agent reputation.
-
-Validation Registry: Verifies agent task execution using cryptographic methods (validators, zero-knowledge proofs, TEEs) and records validation scores on-chain.
-
-2. Web3.0 Vision
-   
-Collaborative Web3.0 Ecosystem
-DAO: Value-sharing decentralized organizations.
-
-Meta World: Interconnected digital and physical environments.
-
-Tokenomics: Decentralized finance (DeFi) and RWA tokenization infrastructure.
-
-Addressing Economic Polarization via Web3.0
-By lowering barriers to entry for high-value assets through RWA tokenization, Web3.0 infrastructure promotes broader access to wealth creation and transparent value distribution.
-
-3. Official Channels
-
-Website: https://www.artprotocol.net
-
-Disclaimer: This whitepaper is for informational purposes only and does not constitute financial, legal, or investment advice, nor an offer to sell or a solicitation of an offer to buy any securities or financial instruments.
+This whitepaper is for information only. It is not an offer to sell, or a solicitation to buy, any token, security, or financial product, and it is not investment, legal, or tax advice. ART is a utility token for use within ART Protocol services. ART Protocol makes no promise of profit, return, liquidity, or value. Plans described here, including the mainnet, burns, and new services, may change or may not happen, and some may be restricted by law in certain jurisdictions, including the United States and California. Digital assets and smart contracts carry risks, including loss of keys, software errors, and loss of value.
