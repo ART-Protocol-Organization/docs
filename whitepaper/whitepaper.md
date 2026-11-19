@@ -2,7 +2,7 @@
 
 *Version 2.0 · November 2026*
 
-> **Summary.** Artcoin (ART) is the internal utility token of ART Protocol. It is used to access and pay for services inside the ART Protocol platform. It is not an investment, does not represent any ownership, profit, or claim, and is not designed for trading outside the platform.
+> **Summary.** Artcoin (ART) is the internal utility token of ART Protocol. It is used to access and pay for services inside the ART Protocol platform. It is not an investment, and does not represent any ownership, profit, or claim. ART may be traded on third-party exchanges that ART Protocol does not operate or control.
 
 ---
 
@@ -36,7 +36,7 @@ Artcoin (ART) is the single utility token that runs these services, in the same 
 
 ### 2.2 What ART is used for
 
-ART works only inside ART Protocol services:
+Inside ART Protocol, ART is used only for the following services:
 
 1. **Service fees**: paying platform fees, such as market, listing, and data-service fees.
 2. **Fee discounts**: paying fees in ART instead of other assets can lower the fee.
@@ -51,7 +51,14 @@ New uses are added only for services that ART Protocol itself operates.
 - ART is **not** equity, debt, a profit share, a dividend, or interest, and gives no claim on ART Protocol, the Artcoin Foundation, or any asset.
 - ART **cannot** be redeemed for money, artwork, or any physical asset.
 - ART does **not** earn yield or rewards for simply holding it.
-- ART Protocol does **not** sell ART as an investment, promote its price, or operate exchange listings or market making for ART.
+- ART Protocol does **not** sell ART as an investment or promote its price, and does **not** arrange, pay for, or support exchange listings, market making, or liquidity for ART.
+
+### 2.4 How users obtain ART
+
+- **Third-party exchanges**: ART is listed on third-party exchanges. These listings were not arranged, paid for, or supported by ART Protocol or the Artcoin Foundation, and ART Protocol does not operate, endorse, or control those exchanges. Prices there are set by their users, not by ART Protocol.
+- **Community programs**: users can receive ART as rewards for platform activity (section 2.2).
+
+Users are responsible for following the laws of their jurisdiction and the terms of any exchange they use.
 
 ## 3. Allocation
 
@@ -59,20 +66,20 @@ The total supply of 1,000,000,000 ART after the planned burn (section 2.1) is re
 
 | Allocation | Share | Amount (ART) | Internal use |
 |---|---|---|---|
-| Ecosystem Growth | 20% | 200,000,000 | Paying fees and access for new ART Protocol services and features |
-| RWA Merchandising | 20% | 200,000,000 | Paying platform fees to onboard and certify artworks and other RWA collections |
-| Protocol Development | 20% | 200,000,000 | Testing and running platform features during protocol upgrades |
-| Network Operations | 10% | 100,000,000 | Paying network and transaction costs for platform services and the planned mainnet |
+| Ecosystem Growth | 20% | 200,000,000 | Fee credits for users of new ART Protocol services and features |
+| RWA Merchandising | 20% | 200,000,000 | Covering platform fees for artists and collections onboarding and certifying RWA |
+| Protocol Development | 20% | 200,000,000 | Usage credits for testing platform features during protocol upgrades |
+| Network Operations | 10% | 100,000,000 | Reserved for platform transaction fees on the planned ART Protocol mainnet |
 | Community | 10% | 100,000,000 | Rewards for platform activity, such as testing, feedback, and content (section 2.2) |
 | Strategic Partners | 10% | 100,000,000 | Access for partners that build or integrate services operated within ART Protocol |
-| Foundation | 10% | 100,000,000 | Platform operations, compliance, and security |
+| Foundation | 10% | 100,000,000 | Reserve held, not sold, for platform operations and security programs |
 | **Total** | **100%** | **1,000,000,000** | |
 
 **Internal-use rules**
 
 - No allocation is sold, offered to investors, or distributed for trading.
-- No allocation is used for exchange listings, market making, or price support.
-- ART given to users or partners can be used only inside ART Protocol services.
+- No allocation is used for exchange listings, market making, liquidity provision, or price support.
+- ART given to users or partners is intended for use inside ART Protocol services. Because ART is a transferable ERC-20 token, this is an operating policy, not a technical restriction.
 - Unused ART stays in reserve. ART spent on platform services may be burned (section 4).
 - Before ART moves from any allocation into platform use, the schedule for that move is published.
 
