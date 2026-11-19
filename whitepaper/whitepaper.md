@@ -10,7 +10,7 @@
 
 ART Protocol is a Web3.0 platform for artwork and other real-world assets (RWA). It brings together:
 
-- **Art&Asset Market**: an on-chain market for digital assets linked to certified collections (currently on BNB Smart Chain Testnet). Fees are paid in ART through the market's internal wallet, which connects to the Base network where ART is issued.
+- **Art&Asset Market**: an on-chain market for digital assets linked to certified collections (currently on BNB Smart Chain Testnet). After the market launches on mainnet, fees will be paid in ART through the market's internal wallet, which connects to the Base network where ART is issued.
 - **ART INDEX**: benchmark data for the art market (ART100, ENVISAGER INDEX), provided for information only.
 - **RWA collections**: certified artwork collections, starting with ENVISAGER MUSEUM and ENVISAGER CLUB.
 - **AI agents**: on-chain agents (TeleZon, AI Village) that help users with tasks inside the platform.
@@ -27,8 +27,9 @@ Artcoin (ART) is the single utility token that runs these services, in the same 
 | Type | Internal utility token (ERC-20) |
 | Network | Base (Ethereum Layer 2) |
 | Contract | [0xC33297B036aFbE0Da079B8Eba229a10964a30842](https://basescan.org/token/0xC33297B036aFbE0Da079B8Eba229a10964a30842) |
-| Previous contracts | Ethereum and Polygon (addresses and status: to be published) |
+| Previous contracts | Ethereum and Polygon contracts are retired. All ART has been migrated to the Base contract above. |
 | Total supply | 10,000,000,000 ART (current) → 1,000,000,000 ART after the planned burn |
+| Circulating supply | ART held by external holders, included in the 1,000,000,000 ART (amount to be published with the planned burn) |
 | Planned burn | 9,000,000,000 ART to be burned on-chain (burn transaction will be published when executed) |
 | Issuer | Artcoin Foundation |
 | Foundation location | Unknown |
@@ -38,7 +39,7 @@ Artcoin (ART) is the single utility token that runs these services, in the same 
 
 Inside ART Protocol, ART is used only for the following services:
 
-1. **Service fees**: paying platform fees, such as market, listing, and data-service fees.
+1. **Service fees**: paying platform fees, such as market, market listing, and data-service fees.
 2. **Fee discounts**: paying fees in ART instead of other assets can lower the fee.
 3. **Feature access**: unlocking platform features, such as advanced ART INDEX data and partner tools offered within ART Protocol.
 4. **AI agent tasks**: paying for tasks performed by ART Protocol AI agents.
@@ -62,18 +63,23 @@ Users are responsible for following the laws of their jurisdiction and the terms
 
 ## 3. Allocation
 
-The total supply of 1,000,000,000 ART after the planned burn (section 2.1) is reserved **for internal use within ART Protocol services only**. Each allocation is spent only on the platform uses in section 2.2.
+After the planned burn, the total supply of 1,000,000,000 ART (section 2.1) consists of:
 
-| Allocation | Share | Amount (ART) | Internal use |
-|---|---|---|---|
-| Ecosystem Growth | 20% | 200,000,000 | Fee credits for users of new ART Protocol services and features |
-| RWA Merchandising | 20% | 200,000,000 | Covering platform fees for artists and collections onboarding and certifying RWA |
-| Protocol Development | 20% | 200,000,000 | Usage credits for testing platform features during protocol upgrades |
-| Network Operations | 10% | 100,000,000 | Reserved for platform transaction fees on the planned ART Protocol mainnet |
-| Community | 10% | 100,000,000 | Rewards for platform activity, such as testing, feedback, and content (section 2.2) |
-| Strategic Partners | 10% | 100,000,000 | Access for partners that build or integrate services operated within ART Protocol |
-| Foundation | 10% | 100,000,000 | Reserve held, not sold, for platform operations and security programs |
-| **Total** | **100%** | **1,000,000,000** | |
+- **Circulating supply**: ART already held by external holders. The amount will be published with the planned burn.
+- **Internal reserves**: all remaining ART, held **for internal use within ART Protocol services only**.
+
+The internal reserves are allocated as follows. Each allocation is spent only on the platform uses in section 2.2, or held as a reserve for the planned mainnet and platform security. Amounts in ART will be published together with the circulating supply.
+
+| Allocation | Share of reserves | Internal use |
+|---|---|---|
+| Ecosystem Growth | 20% | Fee credits for users of new ART Protocol services and features |
+| RWA Merchandising | 20% | Covering platform fees for artists and collections onboarding and certifying RWA |
+| Protocol Development | 20% | Usage credits for testing platform features during protocol upgrades |
+| Network Operations | 10% | Reserved for platform transaction fees on the planned ART Protocol mainnet |
+| Community | 10% | Rewards for platform activity, such as testing, feedback, and content (section 2.2) |
+| Strategic Partners | 10% | Access for partners that build or integrate services operated within ART Protocol |
+| Foundation | 10% | Reserve held, not sold, for platform operations and security programs |
+| **Total** | **100%** | |
 
 **Internal-use rules**
 
@@ -81,7 +87,7 @@ The total supply of 1,000,000,000 ART after the planned burn (section 2.1) is re
 - No allocation is used for exchange listings, market making, liquidity provision, or price support.
 - ART given to users or partners is intended for use inside ART Protocol services. Because ART is a transferable ERC-20 token, this is an operating policy, not a technical restriction.
 - Unused ART stays in reserve. ART spent on platform services may be burned (section 4).
-- Before ART moves from any allocation into platform use, the schedule for that move is published.
+- The schedule for moving ART from each allocation into platform use will be announced through the official channels (section 8).
 
 ## 4. Burn
 
@@ -95,8 +101,8 @@ ART spent on platform services (section 2.2) may be burned, which permanently re
 
 | Stage | Network | Status |
 |---|---|---|
-| 1 | Ethereum | Initial launch |
-| 2 | Polygon | Lower fees |
+| 1 | Ethereum | Retired (migrated to Base) |
+| 2 | Polygon | Retired (migrated to Base) |
 | 3 | Base (Ethereum Layer 2) | **Current** |
 | 4 | ART Protocol Mainnet (Proof-of-Stake) | Planned |
 
