@@ -60,7 +60,7 @@ New uses are added only for services that ART Protocol itself operates.
 
 ### 2.4 How users obtain ART
 
-- **Third-party exchanges**: ART is listed on third-party exchanges. These listings were not arranged, paid for, or supported by ART Protocol or the Artcoin Foundation, and ART Protocol does not operate, endorse, or control those exchanges. Prices there are set by their users, not by ART Protocol.
+- **Third-party exchanges**: ART is listed on third-party exchanges. These listings were not arranged, paid for, or supported by Artcoin Foundation, and ART Protocol does not operate, endorse, or control those exchanges. Prices there are set by their users, not by Artcoin Foundation.
 - **Community programs**: users can receive ART as rewards for platform activity (section 2.2).
 
 Users are responsible for following the laws of their jurisdiction and the terms of any exchange they use.
