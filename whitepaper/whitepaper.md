@@ -1,5 +1,8 @@
 # ART Protocol Whitepaper
 
+> [!IMPORTANT]
+> **Under U.S. legal review.** This whitepaper is currently being reviewed by U.S. legal counsel. Its contents may change based on that review.
+
 *Version 2.0 · November 2026*
 
 > **Summary.** Artcoin (ART) is the internal utility token of ART Protocol. It is used to access and pay for services inside the ART Protocol platform. It is not an investment, and does not represent any ownership, profit, or claim. ART may be traded on third-party exchanges that ART Protocol does not operate or control.
